@@ -1,0 +1,549 @@
+MDR_REPORT_KEY,DEVICE_PROBLEM_CODE,device_problem,device_group
+5344910,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+5359627,2993,Adverse Event Without Identified Device or Use Problem,TENS (over-the-counter)
+5365805,3190,Insufficient Device Problem Information,TENS (over-the-counter)
+5366363,1198,Electrical /Electronic Property Problem,Powered muscle stimulator
+5366363,1385,Melted,Powered muscle stimulator
+5366365,2993,Adverse Event Without Identified Device or Use Problem,Powered muscle stimulator
+5366369,2993,Adverse Event Without Identified Device or Use Problem,Powered muscle stimulator
+5376486,2993,Adverse Event Without Identified Device or Use Problem,Powered muscle stimulator
+5395593,3190,Insufficient Device Problem Information,TENS (over-the-counter)
+5415676,3190,Insufficient Device Problem Information,TENS (over-the-counter)
+5416286,2984,Mechanics Altered,Powered exercise equipment (incl. CPM)
+5470466,2993,Adverse Event Without Identified Device or Use Problem,Powered exercise equipment (incl. CPM)
+5487068,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+5498956,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+5501616,2993,Adverse Event Without Identified Device or Use Problem,Powered muscle stimulator
+5520203,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+5529887,2993,Adverse Event Without Identified Device or Use Problem,Powered exercise equipment (incl. CPM)
+5540589,3190,Insufficient Device Problem Information,TENS (over-the-counter)
+5549382,3190,Insufficient Device Problem Information,TENS (over-the-counter)
+5567858,1574,Inappropriate/Inadequate Shock/Stimulation,TENS (prescription)
+5624499,2979,Material Protrusion/Extrusion,TENS (prescription)
+5631082,2914,Device Operational Issue,TENS (prescription)
+5636698,3007,Packaging Problem,Powered muscle stimulator
+5641908,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+5669214,3024,Torn Material,TENS (over-the-counter)
+5674065,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+5674142,2960,Compatibility Problem,TENS (prescription)
+5695008,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+5700465,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+5741230,1670,Use of Device Problem,Powered exercise equipment (incl. CPM)
+5793129,1318,"Labelling, Instructions for Use or Training Problem",Powered exercise equipment (incl. CPM)
+5793129,1670,Use of Device Problem,Powered exercise equipment (incl. CPM)
+5800266,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+5808283,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+5841376,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+5854562,3005,Output Problem,TENS (over-the-counter)
+5885336,2993,Adverse Event Without Identified Device or Use Problem,Powered muscle stimulator
+5913389,2682,Patient-Device Incompatibility,TENS (over-the-counter)
+5918547,1475,Loss of Power,TENS (prescription)
+5918547,2017,Improper or Incorrect Procedure or Method,TENS (prescription)
+5918547,2913,Device Operates Differently Than Expected,TENS (prescription)
+5940958,2458,Low Test Results,TENS (prescription)
+5947554,1198,Electrical /Electronic Property Problem,TENS (prescription)
+5947823,1198,Electrical /Electronic Property Problem,TENS (prescription)
+5949508,2379,Device Issue,TENS (prescription)
+5997905,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6002767,3190,Insufficient Device Problem Information,TENS (over-the-counter)
+6002826,3190,Insufficient Device Problem Information,TENS (prescription)
+6026815,3005,Output Problem,TENS (over-the-counter)
+6034680,1104,Detachment Of Device Component,Powered exercise equipment (incl. CPM)
+6034809,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6042756,1198,Electrical /Electronic Property Problem,TENS (prescription)
+6042756,2379,Device Issue,TENS (prescription)
+6042756,3005,Output Problem,TENS (prescription)
+6059933,3190,Insufficient Device Problem Information,TENS (over-the-counter)
+6077718,2379,Device Issue,TENS (prescription)
+6084069,2379,Device Issue,TENS (prescription)
+6120699,1574,Inappropriate/Inadequate Shock/Stimulation,Powered muscle stimulator
+6120699,2913,Device Operates Differently Than Expected,Powered muscle stimulator
+6140212,1384,Mechanical Problem,TENS (prescription)
+6140212,1385,Melted,TENS (prescription)
+6140212,3008,Physical Property Issue,TENS (prescription)
+6142528,2949,Human-Device Interface Problem,Powered exoskeleton
+6146349,3190,Insufficient Device Problem Information,Powered exoskeleton
+6147520,2913,Device Operates Differently Than Expected,TENS (over-the-counter)
+6156331,2949,Human-Device Interface Problem,Powered exoskeleton
+6158926,2949,Human-Device Interface Problem,Powered exoskeleton
+6169912,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6169917,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6169918,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6169923,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6169929,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6223771,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6223899,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6224003,2949,Human-Device Interface Problem,Powered exoskeleton
+6224006,2949,Human-Device Interface Problem,Powered exoskeleton
+6226533,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6227185,3273,"Noise, Audible",Powered exoskeleton
+6249592,2948,Human Factors Issue,TENS (prescription)
+6249592,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6261109,2913,Device Operates Differently Than Expected,TENS (prescription)
+6261109,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6263050,1222,Fail-Safe Design Failure,TENS (over-the-counter)
+6263050,1574,Inappropriate/Inadequate Shock/Stimulation,TENS (over-the-counter)
+6263050,2293,Invalid Sensing,TENS (over-the-counter)
+6263050,3009,Positioning Problem,TENS (over-the-counter)
+6289732,2682,Patient-Device Incompatibility,TENS (over-the-counter)
+6314472,2306,Component Missing,Powered exoskeleton
+6373325,1267,Gel Leak,TENS (over-the-counter)
+6373336,2913,Device Operates Differently Than Expected,TENS (over-the-counter)
+6373420,3190,Insufficient Device Problem Information,TENS (over-the-counter)
+6373445,1631,Unexpected Therapeutic Results,TENS (over-the-counter)
+6391184,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6420804,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6433902,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6437223,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6437680,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6440473,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6440604,2948,Human Factors Issue,TENS (prescription)
+6440604,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6440647,2948,Human Factors Issue,TENS (prescription)
+6440647,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6442666,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6449267,1663,Device Inoperable,Powered exercise equipment (incl. CPM)
+6449267,3022,Temperature Problem,Powered exercise equipment (incl. CPM)
+6450615,2993,Adverse Event Without Identified Device or Use Problem,Powered muscle stimulator
+6457545,2017,Improper or Incorrect Procedure or Method,TENS (over-the-counter)
+6457545,2588,Defective Device,TENS (over-the-counter)
+6457545,2913,Device Operates Differently Than Expected,TENS (over-the-counter)
+6457545,2939,Failure to Shut Off,TENS (over-the-counter)
+6550912,2993,Adverse Event Without Identified Device or Use Problem,TENS (over-the-counter)
+6550912,3190,Insufficient Device Problem Information,TENS (over-the-counter)
+6562292,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6563110,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6563171,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6563224,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6575409,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6585029,1584,Device Slipped,TENS (prescription)
+6595500,2914,Device Operational Issue,TENS (prescription)
+6595500,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6604533,2993,Adverse Event Without Identified Device or Use Problem,TENS (over-the-counter)
+6609644,1069,Break,Powered exercise equipment (incl. CPM)
+6621552,1078,Calibration Error,Powered exercise equipment (incl. CPM)
+6621552,2938,Failure to Auto Stop,Powered exercise equipment (incl. CPM)
+6629035,3190,Insufficient Device Problem Information,TENS (over-the-counter)
+6630243,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6630314,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6635587,1114,Failure to Conduct,TENS (over-the-counter)
+6655681,1371,Loose or Intermittent Connection,TENS (prescription)
+6655681,2928,Electronic Property Issue,TENS (prescription)
+6681151,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6681502,1260,Fracture,Powered exoskeleton
+6691763,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6704027,3005,Output Problem,TENS (over-the-counter)
+6705177,2993,Adverse Event Without Identified Device or Use Problem,TENS (over-the-counter)
+6710185,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6710224,3190,Insufficient Device Problem Information,TENS (prescription)
+6710824,2913,Device Operates Differently Than Expected,TENS (prescription)
+6714110,2017,Improper or Incorrect Procedure or Method,TENS (prescription)
+6717221,2682,Patient-Device Incompatibility,Powered muscle stimulator
+6726003,1597,Sticking,TENS (prescription)
+6726003,2913,Device Operates Differently Than Expected,TENS (prescription)
+6726161,1574,Inappropriate/Inadequate Shock/Stimulation,TENS (prescription)
+6726161,2913,Device Operates Differently Than Expected,TENS (prescription)
+6740206,3190,Insufficient Device Problem Information,Powered exoskeleton
+6742042,1474,Power Conditioning Problem,TENS (prescription)
+6742235,1437,Overheating of Device,TENS (prescription)
+6742396,1475,Loss of Power,TENS (prescription)
+6742478,1475,Loss of Power,TENS (prescription)
+6742510,2913,Device Operates Differently Than Expected,TENS (prescription)
+6790254,2183,Fitting Problem,TENS (prescription)
+6790254,2913,Device Operates Differently Than Expected,TENS (prescription)
+6804920,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6805849,2993,Adverse Event Without Identified Device or Use Problem,TENS (over-the-counter)
+6809011,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6809037,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6848815,2913,Device Operates Differently Than Expected,TENS (over-the-counter)
+6848815,3022,Temperature Problem,TENS (over-the-counter)
+6859873,2949,Human-Device Interface Problem,Powered exoskeleton
+6879512,3190,Insufficient Device Problem Information,TENS (prescription)
+6899928,2993,Adverse Event Without Identified Device or Use Problem,TENS (over-the-counter)
+6899945,2993,Adverse Event Without Identified Device or Use Problem,TENS (over-the-counter)
+6939473,2993,Adverse Event Without Identified Device or Use Problem,TENS (over-the-counter)
+6953914,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6953915,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6953916,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6953917,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6953918,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6953919,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6955911,1071,Thermal Decomposition of Device,TENS (over-the-counter)
+6957381,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6957384,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6957385,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6957386,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6957387,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6957390,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6957433,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+6978993,2993,Adverse Event Without Identified Device or Use Problem,Powered exoskeleton
+6982112,3190,Insufficient Device Problem Information,TENS (prescription)
+6985651,1574,Inappropriate/Inadequate Shock/Stimulation,TENS (prescription)
+6989914,1318,"Labelling, Instructions for Use or Training Problem",TENS (over-the-counter)
+7016008,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+7083059,1437,Overheating of Device,TENS (over-the-counter)
+7083059,1585,Smoking,TENS (over-the-counter)
+7143901,1069,Break,Powered exercise equipment (incl. CPM)
+7143901,1420,Nonstandard Device,Powered exercise equipment (incl. CPM)
+7214782,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+7244557,1104,Detachment Of Device Component,Powered exoskeleton
+7244557,1135,Crack,Powered exoskeleton
+7273682,1574,Inappropriate/Inadequate Shock/Stimulation,TENS (over-the-counter)
+7295950,2017,Improper or Incorrect Procedure or Method,Powered exercise equipment (incl. CPM)
+7297528,2993,Adverse Event Without Identified Device or Use Problem,TENS (over-the-counter)
+7300559,3190,Insufficient Device Problem Information,TENS (over-the-counter)
+7346058,1631,Unexpected Therapeutic Results,TENS (prescription)
+7346058,2953,Improper Device Output,TENS (prescription)
+7379632,2913,Device Operates Differently Than Expected,TENS (prescription)
+7379634,2913,Device Operates Differently Than Expected,TENS (prescription)
+7379636,2913,Device Operates Differently Than Expected,TENS (prescription)
+7379648,2913,Device Operates Differently Than Expected,TENS (prescription)
+7380897,2993,Adverse Event Without Identified Device or Use Problem,TENS (over-the-counter)
+7385462,1135,Crack,Powered exoskeleton
+7385462,1420,Nonstandard Device,Powered exoskeleton
+7385462,1557,Self-Activation or Keying,Powered exoskeleton
+7385462,3026,Unintended Movement,Powered exoskeleton
+7385479,1420,Nonstandard Device,Powered exoskeleton
+7385479,2993,Adverse Event Without Identified Device or Use Problem,Powered exoskeleton
+7392332,1420,Nonstandard Device,Powered exoskeleton
+7393485,2017,Improper or Incorrect Procedure or Method,Powered exoskeleton
+7393486,1429,Unintended Collision,Powered exoskeleton
+7394018,1069,Break,Powered exoskeleton
+7401093,1099,Collapse,Powered exoskeleton
+7443771,1420,Nonstandard Device,Powered exoskeleton
+7443774,1420,Nonstandard Device,Powered exoskeleton
+7443774,2682,Patient-Device Incompatibility,Powered exoskeleton
+7443790,1420,Nonstandard Device,Powered exoskeleton
+7445347,2993,Adverse Event Without Identified Device or Use Problem,Powered exoskeleton
+7445930,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+7471170,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+7471171,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+7477073,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+7477159,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+7478407,2993,Adverse Event Without Identified Device or Use Problem,Powered exoskeleton
+7482524,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+7525729,1574,Inappropriate/Inadequate Shock/Stimulation,TENS (over-the-counter)
+7549033,2993,Adverse Event Without Identified Device or Use Problem,TENS (over-the-counter)
+7552167,2993,Adverse Event Without Identified Device or Use Problem,TENS (over-the-counter)
+7552345,2993,Adverse Event Without Identified Device or Use Problem,TENS (over-the-counter)
+7553039,2993,Adverse Event Without Identified Device or Use Problem,TENS (over-the-counter)
+7553406,2993,Adverse Event Without Identified Device or Use Problem,TENS (over-the-counter)
+7556167,2993,Adverse Event Without Identified Device or Use Problem,TENS (over-the-counter)
+7556818,2993,Adverse Event Without Identified Device or Use Problem,TENS (over-the-counter)
+7572849,3191,Appropriate Device Problem Term/Code Not Available,Powered exoskeleton
+7573488,2682,Patient-Device Incompatibility,Powered exoskeleton
+7626734,2993,Adverse Event Without Identified Device or Use Problem,Powered exoskeleton
+7635320,1670,Use of Device Problem,TENS (prescription)
+7635574,2017,Improper or Incorrect Procedure or Method,TENS (prescription)
+7635574,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+7675654,2993,Adverse Event Without Identified Device or Use Problem,TENS (over-the-counter)
+7713118,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+7722351,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+7722351,3191,Appropriate Device Problem Term/Code Not Available,TENS (prescription)
+7752239,1432,Output above Specifications,TENS (over-the-counter)
+7752239,1476,Failure to Power Up,TENS (over-the-counter)
+7780325,2682,Patient-Device Incompatibility,TENS (prescription)
+7812323,1494,Off-Label Use,TENS (over-the-counter)
+7812323,1574,Inappropriate/Inadequate Shock/Stimulation,TENS (over-the-counter)
+7812323,2017,Improper or Incorrect Procedure or Method,TENS (over-the-counter)
+7812323,4018,Unintended Electrical Shock,TENS (over-the-counter)
+7837124,3005,Output Problem,Powered muscle stimulator
+7928077,2993,Adverse Event Without Identified Device or Use Problem,Powered exoskeleton
+7937827,1557,Self-Activation or Keying,TENS (prescription)
+7956337,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+7969513,4006,Explosion,TENS (prescription)
+7999293,3015,Protective Measures Problem,Powered exercise equipment (incl. CPM)
+8008538,2993,Adverse Event Without Identified Device or Use Problem,TENS (over-the-counter)
+8094646,1437,Overheating of Device,TENS (over-the-counter)
+8094646,3190,Insufficient Device Problem Information,TENS (over-the-counter)
+8094646,4019,Unexpected Shutdown,TENS (over-the-counter)
+8139663,3022,Temperature Problem,Powered muscle stimulator
+8145104,2993,Adverse Event Without Identified Device or Use Problem,Powered exoskeleton
+8145105,1069,Break,Powered exoskeleton
+8152426,1670,Use of Device Problem,Powered muscle stimulator
+8152426,2900,Connection Problem,Powered muscle stimulator
+8155073,2993,Adverse Event Without Identified Device or Use Problem,Powered exoskeleton
+8183930,1260,Fracture,Powered exoskeleton
+8188569,2017,Improper or Incorrect Procedure or Method,TENS (prescription)
+8197646,1670,Use of Device Problem,TENS (over-the-counter)
+8297054,1384,Mechanical Problem,Powered muscle stimulator
+8308514,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+8366460,2993,Adverse Event Without Identified Device or Use Problem,Powered exercise equipment (incl. CPM)
+8366615,2993,Adverse Event Without Identified Device or Use Problem,Powered muscle stimulator
+8394098,2939,Failure to Shut Off,Powered muscle stimulator
+8540056,1371,Loose or Intermittent Connection,Powered exercise equipment (incl. CPM)
+8540056,4014,Device Fell,Powered exercise equipment (incl. CPM)
+8707008,1574,Inappropriate/Inadequate Shock/Stimulation,Powered muscle stimulator
+8795403,3023,Therapeutic or Diagnostic Output Failure,TENS (over-the-counter)
+8796178,1068,Loss of or Failure to Bond,TENS (over-the-counter)
+8796178,2978,Material Integrity Problem,TENS (over-the-counter)
+8816732,2682,Patient-Device Incompatibility,TENS (over-the-counter)
+8816734,2682,Patient-Device Incompatibility,TENS (over-the-counter)
+8843245,2993,Adverse Event Without Identified Device or Use Problem,TENS (over-the-counter)
+8920084,3190,Insufficient Device Problem Information,TENS (prescription)
+8992816,2588,Defective Device,TENS (prescription)
+8992816,3005,Output Problem,TENS (prescription)
+9191773,3022,Temperature Problem,TENS (prescription)
+9213525,1384,Mechanical Problem,TENS (prescription)
+9225565,1474,Power Conditioning Problem,Powered muscle stimulator
+9266356,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+9304482,1260,Fracture,TENS (prescription)
+9354148,1431,Energy Output Problem,Powered muscle stimulator
+9354170,1431,Energy Output Problem,Powered muscle stimulator
+9458764,2682,Patient-Device Incompatibility,Powered muscle stimulator
+9519379,4025,Intermittent Energy Output,Powered muscle stimulator
+9529951,4025,Intermittent Energy Output,Powered muscle stimulator
+9574840,1069,Break,TENS (prescription)
+9621402,1069,Break,TENS (prescription)
+9659576,4025,Intermittent Energy Output,Powered muscle stimulator
+9666584,1069,Break,TENS (prescription)
+9694283,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+9774524,1562,Material Separation,Powered muscle stimulator
+9786070,2682,Patient-Device Incompatibility,Powered muscle stimulator
+9829647,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+9835882,1670,Use of Device Problem,TENS (prescription)
+9836506,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+9864812,4025,Intermittent Energy Output,Powered muscle stimulator
+10000746,3023,Therapeutic or Diagnostic Output Failure,TENS (over-the-counter)
+10050473,1260,Fracture,Powered exoskeleton
+10096340,3023,Therapeutic or Diagnostic Output Failure,TENS (over-the-counter)
+10118258,4018,Unintended Electrical Shock,Powered muscle stimulator
+10137796,2292,Defective Component,TENS (over-the-counter)
+10178685,2993,Adverse Event Without Identified Device or Use Problem,Powered muscle stimulator
+10250481,1570,Device Damaged Prior to Receipt by User,TENS (over-the-counter)
+10326152,3191,Appropriate Device Problem Term/Code Not Available,TENS (over-the-counter)
+10326535,4018,Unintended Electrical Shock,Powered muscle stimulator
+10361689,3023,Therapeutic or Diagnostic Output Failure,TENS (over-the-counter)
+10454299,2993,Adverse Event Without Identified Device or Use Problem,Powered exoskeleton
+10454301,2993,Adverse Event Without Identified Device or Use Problem,Powered exoskeleton
+10513807,1506,Product Quality Problem,Powered muscle stimulator
+10575069,3189,No Apparent Adverse Event,Powered muscle stimulator
+10575070,3189,No Apparent Adverse Event,Powered muscle stimulator
+10713187,1670,Use of Device Problem,Powered muscle stimulator
+10713187,2017,Improper or Incorrect Procedure or Method,Powered muscle stimulator
+10837737,2993,Adverse Event Without Identified Device or Use Problem,TENS (over-the-counter)
+10853001,1670,Use of Device Problem,Powered muscle stimulator
+10853001,2017,Improper or Incorrect Procedure or Method,Powered muscle stimulator
+10920525,1670,Use of Device Problem,Powered muscle stimulator
+10920525,2017,Improper or Incorrect Procedure or Method,Powered muscle stimulator
+10976020,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+10983479,2682,Patient-Device Incompatibility,TENS (prescription)
+10991679,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+11019252,2993,Adverse Event Without Identified Device or Use Problem,TENS (over-the-counter)
+11154437,2682,Patient-Device Incompatibility,TENS (over-the-counter)
+11156049,1198,Electrical /Electronic Property Problem,Powered muscle stimulator
+11170158,4030,Excessive Heating,TENS (over-the-counter)
+11398150,3190,Insufficient Device Problem Information,TENS (prescription)
+11424988,1670,Use of Device Problem,Powered exercise equipment (incl. CPM)
+11541707,3026,Unintended Movement,TENS (prescription)
+11552390,2993,Adverse Event Without Identified Device or Use Problem,TENS (over-the-counter)
+11552390,3190,Insufficient Device Problem Information,TENS (over-the-counter)
+11614535,3190,Insufficient Device Problem Information,TENS (over-the-counter)
+11639521,3190,Insufficient Device Problem Information,TENS (over-the-counter)
+11655192,1245,Fire,Powered exoskeleton
+11655192,2885,Battery Problem,Powered exoskeleton
+11655212,1245,Fire,Powered exoskeleton
+11655212,2885,Battery Problem,Powered exoskeleton
+11710211,2993,Adverse Event Without Identified Device or Use Problem,TENS (over-the-counter)
+11710211,3190,Insufficient Device Problem Information,TENS (over-the-counter)
+12106444,3190,Insufficient Device Problem Information,TENS (prescription)
+12496789,2682,Patient-Device Incompatibility,TENS (prescription)
+12496789,3023,Therapeutic or Diagnostic Output Failure,TENS (prescription)
+12568082,1245,Fire,Powered exercise equipment (incl. CPM)
+12575757,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+12607175,4018,Unintended Electrical Shock,TENS (over-the-counter)
+12665515,2682,Patient-Device Incompatibility,Powered muscle stimulator
+12843964,1574,Inappropriate/Inadequate Shock/Stimulation,Powered muscle stimulator
+12843964,1583,Inadequacy of Device Shape and/or Size,Powered muscle stimulator
+12843964,3023,Therapeutic or Diagnostic Output Failure,Powered muscle stimulator
+13198893,2591,Device Displays Incorrect Message,Powered muscle stimulator
+13977353,2993,Adverse Event Without Identified Device or Use Problem,Powered exoskeleton
+14576024,1670,Use of Device Problem,TENS (prescription)
+14837167,2993,Adverse Event Without Identified Device or Use Problem,Powered muscle stimulator
+15032609,1291,High impedance,TENS (over-the-counter)
+15070955,1291,High impedance,TENS (over-the-counter)
+15462835,1631,Unexpected Therapeutic Results,Powered exoskeleton
+15543780,1431,Energy Output Problem,TENS (prescription)
+15643064,1162,Unintended Power Up,Powered muscle stimulator
+15643064,1198,Electrical /Electronic Property Problem,Powered muscle stimulator
+15885303,3005,Output Problem,TENS (prescription)
+15885303,3009,Positioning Problem,TENS (prescription)
+15891999,1670,Use of Device Problem,TENS (prescription)
+16053040,3005,Output Problem,Powered muscle stimulator
+16630181,1506,Product Quality Problem,Powered muscle stimulator
+16665146,2993,Adverse Event Without Identified Device or Use Problem,Powered muscle stimulator
+16708355,1071,Thermal Decomposition of Device,TENS (prescription)
+16708355,1194,Electromagnetic Interference,TENS (prescription)
+16708355,1245,Fire,TENS (prescription)
+16708355,1585,Smoking,TENS (prescription)
+16855076,2993,Adverse Event Without Identified Device or Use Problem,Powered muscle stimulator
+16906337,1126,Use of Incorrect Control/Treatment Settings,Powered exoskeleton
+16906790,1071,Thermal Decomposition of Device,TENS (prescription)
+16907000,1071,Thermal Decomposition of Device,TENS (prescription)
+16919807,2993,Adverse Event Without Identified Device or Use Problem,Powered muscle stimulator
+16920113,3190,Insufficient Device Problem Information,TENS (prescription)
+17069413,3190,Insufficient Device Problem Information,TENS (prescription)
+17127607,2017,Improper or Incorrect Procedure or Method,TENS (prescription)
+17188092,3190,Insufficient Device Problem Information,TENS (prescription)
+17263382,2017,Improper or Incorrect Procedure or Method,TENS (prescription)
+17433390,2975,"Manufacturing, Packaging or Shipping Problem",Powered exercise equipment (incl. CPM)
+17510415,3005,Output Problem,TENS (prescription)
+17522749,1476,Failure to Power Up,Powered exercise equipment (incl. CPM)
+17524056,3190,Insufficient Device Problem Information,TENS (prescription)
+17524115,2885,Battery Problem,TENS (prescription)
+17524833,1475,Loss of Power,Powered exercise equipment (incl. CPM)
+17524981,1476,Failure to Power Up,TENS (prescription)
+17525569,3190,Insufficient Device Problem Information,TENS (prescription)
+17525934,1384,Mechanical Problem,Powered exercise equipment (incl. CPM)
+17526526,1158,Positioning Failure,TENS (prescription)
+17526929,1384,Mechanical Problem,TENS (prescription)
+17528028,2292,Defective Component,TENS (prescription)
+17528288,3190,Insufficient Device Problem Information,TENS (prescription)
+17528624,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+17529186,3190,Insufficient Device Problem Information,TENS (prescription)
+17529245,4012,Physical Resistance/Sticking,Powered exercise equipment (incl. CPM)
+17529349,1069,Break,Powered exercise equipment (incl. CPM)
+17529481,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+17530072,3190,Insufficient Device Problem Information,TENS (prescription)
+17530911,4012,Physical Resistance/Sticking,Powered exercise equipment (incl. CPM)
+17531157,3190,Insufficient Device Problem Information,Powered exercise equipment (incl. CPM)
+17531395,1069,Break,TENS (prescription)
+17531675,1069,Break,Powered muscle stimulator
+17532231,1476,Failure to Power Up,Powered exercise equipment (incl. CPM)
+17532329,4001,Patient Device Interaction Problem,TENS (prescription)
+17532539,2588,Defective Device,Powered muscle stimulator
+17532796,4012,Physical Resistance/Sticking,Powered exercise equipment (incl. CPM)
+17532801,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+17533608,3190,Insufficient Device Problem Information,TENS (prescription)
+17533671,1069,Break,Powered exercise equipment (incl. CPM)
+17533671,2595,Sparking,Powered exercise equipment (incl. CPM)
+17533883,3190,Insufficient Device Problem Information,TENS (prescription)
+17533970,3190,Insufficient Device Problem Information,TENS (prescription)
+17534391,1574,Inappropriate/Inadequate Shock/Stimulation,TENS (prescription)
+17534837,4015,Complete Loss of Power,Powered exercise equipment (incl. CPM)
+17535812,3190,Insufficient Device Problem Information,TENS (prescription)
+17536616,1574,Inappropriate/Inadequate Shock/Stimulation,TENS (prescription)
+17536616,2892,Charging Problem,TENS (prescription)
+17537296,3190,Insufficient Device Problem Information,TENS (prescription)
+17646228,4030,Excessive Heating,TENS (over-the-counter)
+17667458,4030,Excessive Heating,TENS (over-the-counter)
+17738457,1245,Fire,TENS (over-the-counter)
+17770325,1245,Fire,TENS (over-the-counter)
+18055346,3190,Insufficient Device Problem Information,TENS (prescription)
+18169387,3190,Insufficient Device Problem Information,TENS (prescription)
+18333763,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+18333763,3190,Insufficient Device Problem Information,TENS (prescription)
+18333765,3190,Insufficient Device Problem Information,TENS (prescription)
+18861530,1670,Use of Device Problem,Powered muscle stimulator
+18902515,1260,Fracture,Powered muscle stimulator
+18984545,2993,Adverse Event Without Identified Device or Use Problem,TENS (over-the-counter)
+18984545,3022,Temperature Problem,TENS (over-the-counter)
+18984545,4030,Excessive Heating,TENS (over-the-counter)
+19075352,1126,Use of Incorrect Control/Treatment Settings,TENS (prescription)
+19075352,1643,Inadequate or Insufficient Training,TENS (prescription)
+19177900,2017,Improper or Incorrect Procedure or Method,TENS (prescription)
+19177900,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+19218420,2993,Adverse Event Without Identified Device or Use Problem,TENS (over-the-counter)
+19218420,3022,Temperature Problem,TENS (over-the-counter)
+19218420,4030,Excessive Heating,TENS (over-the-counter)
+19255487,4030,Excessive Heating,TENS (over-the-counter)
+19283013,4030,Excessive Heating,TENS (over-the-counter)
+19426441,2907,Detachment of Device or Device Component,Powered exercise equipment (incl. CPM)
+19813297,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+19813297,3190,Insufficient Device Problem Information,TENS (prescription)
+19874032,2993,Adverse Event Without Identified Device or Use Problem,Powered exoskeleton
+20213493,1585,Smoking,Powered muscle stimulator
+20220329,3190,Insufficient Device Problem Information,Powered exoskeleton
+20254367,3190,Insufficient Device Problem Information,TENS (prescription)
+20275819,2993,Adverse Event Without Identified Device or Use Problem,Powered exoskeleton
+20275819,3190,Insufficient Device Problem Information,Powered exoskeleton
+20429393,1089,Circuit Failure,TENS (prescription)
+20434834,3190,Insufficient Device Problem Information,TENS (prescription)
+20503327,2993,Adverse Event Without Identified Device or Use Problem,Powered exoskeleton
+20569820,4030,Excessive Heating,TENS (over-the-counter)
+20586000,4030,Excessive Heating,TENS (over-the-counter)
+20682019,2993,Adverse Event Without Identified Device or Use Problem,Powered exoskeleton
+20682019,3190,Insufficient Device Problem Information,Powered exoskeleton
+21000651,2993,Adverse Event Without Identified Device or Use Problem,Powered exoskeleton
+21000651,3190,Insufficient Device Problem Information,Powered exoskeleton
+21274103,3190,Insufficient Device Problem Information,TENS (prescription)
+21415373,3023,Therapeutic or Diagnostic Output Failure,TENS (over-the-counter)
+21477580,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+21477580,3190,Insufficient Device Problem Information,TENS (prescription)
+21561029,3190,Insufficient Device Problem Information,TENS (prescription)
+21696263,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+21696263,3190,Insufficient Device Problem Information,TENS (prescription)
+21785658,1667,Unstable,Powered exoskeleton
+21785658,2589,Device Tipped Over,Powered exoskeleton
+21875730,1670,Use of Device Problem,TENS (prescription)
+21883326,4001,Patient Device Interaction Problem,TENS (prescription)
+21938639,1432,Output above Specifications,TENS (prescription)
+22024215,1670,Use of Device Problem,Powered muscle stimulator
+22024215,3190,Insufficient Device Problem Information,Powered muscle stimulator
+22025722,1670,Use of Device Problem,Powered muscle stimulator
+22025722,3190,Insufficient Device Problem Information,Powered muscle stimulator
+22091230,1574,Inappropriate/Inadequate Shock/Stimulation,Powered muscle stimulator
+22105548,1506,Product Quality Problem,TENS (prescription)
+22105548,4001,Patient Device Interaction Problem,TENS (prescription)
+22126309,2975,"Manufacturing, Packaging or Shipping Problem",TENS (over-the-counter)
+22126309,2978,Material Integrity Problem,TENS (over-the-counter)
+22297436,2588,Defective Device,TENS (over-the-counter)
+22297436,4001,Patient Device Interaction Problem,TENS (over-the-counter)
+22540369,1494,Off-Label Use,Powered exercise equipment (incl. CPM)
+22693792,3023,Therapeutic or Diagnostic Output Failure,TENS (over-the-counter)
+22836808,2993,Adverse Event Without Identified Device or Use Problem,Powered exoskeleton
+22862348,4001,Patient Device Interaction Problem,TENS (prescription)
+22967844,1198,Electrical /Electronic Property Problem,TENS (prescription)
+22967844,1432,Output above Specifications,TENS (prescription)
+22967844,2949,Human-Device Interface Problem,TENS (prescription)
+23026768,2682,Patient-Device Incompatibility,TENS (prescription)
+23026788,2682,Patient-Device Incompatibility,TENS (over-the-counter)
+23085338,1536,Retraction Problem,Powered exoskeleton
+23086519,1536,Retraction Problem,Powered exoskeleton
+23121529,3005,Output Problem,Powered exercise equipment (incl. CPM)
+23241275,1384,Mechanical Problem,Powered exoskeleton
+23361656,4001,Patient Device Interaction Problem,Powered muscle stimulator
+23436928,2588,Defective Device,TENS (prescription)
+23497093,4001,Patient Device Interaction Problem,Powered muscle stimulator
+23512044,1135,Crack,Powered muscle stimulator
+23512044,1262,Material Frayed,Powered muscle stimulator
+23512044,1385,Melted,Powered muscle stimulator
+23512044,2978,Material Integrity Problem,Powered muscle stimulator
+23543403,1135,Crack,Powered muscle stimulator
+23543403,1385,Melted,Powered muscle stimulator
+23543403,1437,Overheating of Device,Powered muscle stimulator
+23582641,2017,Improper or Incorrect Procedure or Method,Powered exercise equipment (incl. CPM)
+23690617,2385,"Tear, Rip or Hole in Device Packaging",TENS (over-the-counter)
+23847742,2017,Improper or Incorrect Procedure or Method,Powered muscle stimulator
+23847806,2017,Improper or Incorrect Procedure or Method,Powered muscle stimulator
+23851368,2017,Improper or Incorrect Procedure or Method,Powered exoskeleton
+9304482,497,,TENS (prescription)
+9574840,497,,TENS (prescription)
+9621402,497,,TENS (prescription)
+9666584,497,,TENS (prescription)
+9835882,3049,,TENS (prescription)
+9835882,3053,,TENS (prescription)
+9835882,3079,,TENS (prescription)
+9835882,444,,TENS (prescription)
+9835882,452,,TENS (prescription)
+9835882,848,,TENS (prescription)
+23992925,2993,Adverse Event Without Identified Device or Use Problem,TENS (over-the-counter)
+24467905,1670,Use of Device Problem,TENS (prescription)
+24468313,3190,Insufficient Device Problem Information,TENS (over-the-counter)
+24760721,1574,Inappropriate/Inadequate Shock/Stimulation,TENS (over-the-counter)
+25318307,1670,Use of Device Problem,Powered exercise equipment (incl. CPM)
+25318969,3190,Insufficient Device Problem Information,TENS (prescription)
+25573080,2993,Adverse Event Without Identified Device or Use Problem,TENS (prescription)
+25600033,3190,Insufficient Device Problem Information,TENS (prescription)
+25667984,2956,Inadequate Instructions for Non-Healthcare Professional,TENS (prescription)
+25667984,3023,Therapeutic or Diagnostic Output Failure,TENS (prescription)
+25667984,4001,Patient Device Interaction Problem,TENS (prescription)
+25668009,2956,Inadequate Instructions for Non-Healthcare Professional,TENS (prescription)
+25668009,3023,Therapeutic or Diagnostic Output Failure,TENS (prescription)
+25668009,4001,Patient Device Interaction Problem,TENS (prescription)
+50060133,4001,Patient Device Interaction Problem,Powered muscle stimulator
+50080267,2993,Adverse Event Without Identified Device or Use Problem,Powered exoskeleton
+50156509,2017,Improper or Incorrect Procedure or Method,Powered exercise equipment (incl. CPM)
+50476553,1198,Electrical /Electronic Property Problem,TENS (prescription)
+50515584,1198,Electrical /Electronic Property Problem,TENS (prescription)
+50519866,1198,Electrical /Electronic Property Problem,TENS (prescription)

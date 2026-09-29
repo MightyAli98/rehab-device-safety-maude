@@ -1,0 +1,26 @@
+device_group,device_problem,reports,pct_of_device_reports
+Powered exercise equipment (incl. CPM),Break,4,10.0
+Powered exercise equipment (incl. CPM),Use of Device Problem,4,10.0
+Powered exercise equipment (incl. CPM),Improper or Incorrect Procedure or Method,3,7.5
+Powered exercise equipment (incl. CPM),Physical Resistance/Sticking,3,7.5
+Powered exercise equipment (incl. CPM),Failure to Power Up,2,5.0
+Powered exoskeleton,Human-Device Interface Problem,6,11.1
+Powered exoskeleton,Insufficient Device Problem Information,6,11.1
+Powered exoskeleton,Nonstandard Device,6,11.1
+Powered exoskeleton,Fracture,3,5.6
+Powered exoskeleton,Battery Problem,2,3.7
+Powered muscle stimulator,Use of Device Problem,7,9.6
+Powered muscle stimulator,Improper or Incorrect Procedure or Method,5,6.8
+Powered muscle stimulator,Inappropriate/Inadequate Shock/Stimulation,4,5.5
+Powered muscle stimulator,Intermittent Energy Output,4,5.5
+Powered muscle stimulator,Patient-Device Incompatibility,4,5.5
+TENS (over-the-counter),Insufficient Device Problem Information,17,17.5
+TENS (over-the-counter),Excessive Heating,9,9.3
+TENS (over-the-counter),Patient-Device Incompatibility,6,6.2
+TENS (over-the-counter),Therapeutic or Diagnostic Output Failure,6,6.2
+TENS (over-the-counter),Inappropriate/Inadequate Shock/Stimulation,5,5.2
+TENS (prescription),Insufficient Device Problem Information,33,15.5
+TENS (prescription),Device Operates Differently Than Expected,11,5.2
+TENS (prescription),Electrical /Electronic Property Problem,7,3.3
+TENS (prescription),Improper or Incorrect Procedure or Method,7,3.3
+TENS (prescription),Patient Device Interaction Problem,6,2.8

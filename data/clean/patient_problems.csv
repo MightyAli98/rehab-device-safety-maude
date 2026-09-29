@@ -1,0 +1,722 @@
+MDR_REPORT_KEY,PATIENT_SEQUENCE_NO,PROBLEM_CODE,DATE_ADDED,DATE_CHANGED,patient_problem,device_group
+5344910,1,1848,2016/01/05 14:54:52,2016/01/05 14:54:52,Fall,TENS (prescription)
+5344910,1,2032,2016/01/05 14:54:52,2016/01/05 14:54:52,Loss of Range of Motion,TENS (prescription)
+5359627,1,1914,2016/01/12 07:59:45,2016/01/12 07:59:45,Low Blood Pressure/ Hypotension,TENS (over-the-counter)
+5359627,1,2194,2016/01/12 07:59:45,2016/01/12 07:59:45,Dizziness,TENS (over-the-counter)
+5359627,1,2444,2016/01/12 07:59:45,2016/01/12 07:59:45,Sweating,TENS (over-the-counter)
+5359627,1,2467,2016/01/12 07:59:45,2016/01/12 07:59:45,Palpitations,TENS (over-the-counter)
+5365805,1,1757,2016/01/14 07:51:22,2016/01/28 04:30:39,Burn(s),TENS (over-the-counter)
+5366363,1,1757,2016/01/15 07:42:53,2016/01/15 07:42:53,Burn(s),Powered muscle stimulator
+5366363,1,2072,2016/01/15 07:42:53,2016/01/15 07:42:53,Shock,Powered muscle stimulator
+5366363,1,2091,2016/01/15 07:42:53,2016/01/15 07:42:53,Swelling,Powered muscle stimulator
+5366365,1,1757,2016/01/15 07:41:41,2016/01/15 07:41:41,Burn(s),Powered muscle stimulator
+5366369,1,1757,2016/01/15 07:11:21,2016/01/15 07:11:21,Burn(s),Powered muscle stimulator
+5376486,1,1757,2016/01/20 07:40:07,2016/01/20 07:40:07,Burn(s),Powered muscle stimulator
+5395593,1,2168,2016/01/28 05:45:50,2016/02/04 11:28:08,"Seizures, Grand-Mal",TENS (over-the-counter)
+5415676,1,2076,2016/02/08 00:33:11,2016/02/11 07:08:14,Skin Irritation,TENS (over-the-counter)
+5416286,1,1946,2016/02/09 08:46:18,2016/02/09 08:46:18,Laceration(s),Powered exercise equipment (incl. CPM)
+5470466,1,2348,2016/03/01 12:17:51,2016/03/01 12:17:51,Injury,Powered exercise equipment (incl. CPM)
+5487068,1,2694,2016/03/08 16:16:51,2016/03/08 16:16:51,Partial thickness (Second Degree) Burn,TENS (prescription)
+5498956,1,2694,2016/03/14 16:02:50,2016/03/14 16:02:50,Partial thickness (Second Degree) Burn,TENS (prescription)
+5501616,1,2554,2016/03/15 15:17:47,2025/07/21 12:30:21,Electric Shock,Powered muscle stimulator
+5520203,1,2694,2016/03/23 13:03:00,2016/03/23 13:03:00,Partial thickness (Second Degree) Burn,TENS (prescription)
+5529887,1,2091,2016/03/28 15:05:11,2016/09/28 15:54:45,Swelling,Powered exercise equipment (incl. CPM)
+5540589,1,1754,2016/04/01 04:12:07,2016/04/06 06:52:08,Bruise/Contusion,TENS (over-the-counter)
+5549382,1,2033,2016/04/05 23:03:46,2016/04/05 23:03:46,Rash,TENS (over-the-counter)
+5567858,1,2171,2016/04/11 14:58:58,2016/04/12 12:00:34,Tingling,TENS (prescription)
+5567858,1,3162,2016/04/11 14:58:58,2016/04/12 12:00:34,Shock from Patient Lead(s),TENS (prescription)
+5624499,1,1946,2016/05/03 11:23:35,2016/05/03 11:23:35,Laceration(s),TENS (prescription)
+5631082,1,1979,2016/05/04 13:13:13,2016/05/04 13:13:13,Nerve Damage,TENS (prescription)
+5631082,1,2415,2016/05/04 13:13:13,2016/05/04 13:13:13,Numbness,TENS (prescription)
+5631082,1,2694,2016/05/04 13:13:13,2016/05/04 13:13:13,Partial thickness (Second Degree) Burn,TENS (prescription)
+5636698,1,2645,2016/05/10 08:53:05,2016/05/10 08:53:05,No Patient Involvement,Powered muscle stimulator
+5641908,1,2694,2016/05/09 17:03:15,2016/05/09 17:03:15,Partial thickness (Second Degree) Burn,TENS (prescription)
+5669214,1,2100,2016/05/20 05:54:00,2016/06/09 09:25:57,Thrombosis,TENS (over-the-counter)
+5674065,1,2696,2016/05/23 17:01:00,2016/05/23 17:01:00,Full thickness (Third Degree) Burn,TENS (prescription)
+5674142,1,2694,2016/05/23 17:18:36,2016/05/23 17:18:36,Partial thickness (Second Degree) Burn,TENS (prescription)
+5695008,1,2694,2016/06/02 12:46:55,2016/06/02 12:46:55,Partial thickness (Second Degree) Burn,TENS (prescription)
+5700465,1,2694,2016/06/06 10:15:09,2016/06/06 10:15:09,Partial thickness (Second Degree) Burn,TENS (prescription)
+5741230,1,1754,2016/06/23 10:01:34,2016/06/23 10:01:34,Bruise/Contusion,Powered exercise equipment (incl. CPM)
+5741230,1,2544,2016/06/23 10:01:34,2016/06/23 10:01:34,Ambulation or Postural Difficulties,Powered exercise equipment (incl. CPM)
+5793129,1,1870,2016/07/13 23:12:06,2016/07/13 23:12:06,Bone Fracture(s),Powered exercise equipment (incl. CPM)
+5800266,1,2694,2016/07/16 01:56:02,2016/07/16 01:56:02,Partial thickness (Second Degree) Burn,TENS (prescription)
+5808283,1,2696,2016/07/20 10:08:01,2016/07/20 10:08:01,Full thickness (Third Degree) Burn,TENS (prescription)
+5841376,1,1757,2016/08/02 15:30:22,2016/08/03 16:38:21,Burn(s),TENS (prescription)
+5854562,1,2033,2016/08/08 14:24:19,2016/08/08 14:24:19,Rash,TENS (over-the-counter)
+5885336,1,1840,2016/08/18 10:18:51,2017/08/29 14:15:29,Erythema,Powered muscle stimulator
+5885336,1,2686,2016/08/18 10:18:51,2017/08/29 14:15:29,Fluid Discharge,Powered muscle stimulator
+5885336,1,3191,2016/08/18 10:18:51,2017/08/29 14:15:29,No Code Available,Powered muscle stimulator
+5913389,1,1754,2016/09/01 08:03:03,2016/09/01 08:03:03,Bruise/Contusion,TENS (over-the-counter)
+5913389,1,2171,2016/09/01 08:03:03,2016/09/01 08:03:03,Tingling,TENS (over-the-counter)
+5913389,1,2355,2016/09/01 08:03:03,2016/09/01 08:03:03,Arthralgia,TENS (over-the-counter)
+5918547,1,1880,2016/08/31 15:37:06,2016/08/31 15:37:06,Headache,TENS (prescription)
+5918547,1,1930,2016/08/31 15:37:06,2016/08/31 15:37:06,Unspecified Infection,TENS (prescription)
+5918547,1,1970,2016/08/31 15:37:06,2016/08/31 15:37:06,Nausea,TENS (prescription)
+5918547,1,1994,2016/08/31 15:37:06,2016/08/31 15:37:06,Pain,TENS (prescription)
+5918547,1,2104,2016/08/31 15:37:06,2016/08/31 15:37:06,Tissue Damage,TENS (prescription)
+5918547,1,2146,2016/08/31 15:37:06,2016/08/31 15:37:06,Burning Sensation,TENS (prescription)
+5918547,1,2685,2016/08/31 15:37:06,2016/08/31 15:37:06,Superficial (First Degree) Burn,TENS (prescription)
+5918547,1,2694,2016/08/31 15:37:06,2016/08/31 15:37:06,Partial thickness (Second Degree) Burn,TENS (prescription)
+5918547,1,2696,2016/08/31 15:37:06,2016/08/31 15:37:06,Full thickness (Third Degree) Burn,TENS (prescription)
+5940958,1,2694,2016/09/09 17:42:05,2016/09/09 17:42:05,Partial thickness (Second Degree) Burn,TENS (prescription)
+5947554,1,1757,2016/09/13 16:25:29,2016/09/13 16:25:29,Burn(s),TENS (prescription)
+5947554,1,2072,2016/09/13 16:25:29,2016/09/13 16:25:29,Shock,TENS (prescription)
+5947823,1,2694,2016/09/13 17:55:15,2016/09/13 17:55:15,Partial thickness (Second Degree) Burn,TENS (prescription)
+5949508,1,1757,2016/09/14 12:19:18,2016/09/14 12:19:18,Burn(s),TENS (prescription)
+5997905,1,1997,2016/10/04 15:08:18,2016/10/04 15:08:18,Paralysis,TENS (prescription)
+6002767,1,1757,2016/10/07 09:42:41,2016/10/07 09:42:41,Burn(s),TENS (over-the-counter)
+6002826,1,1966,2016/10/07 10:18:57,2016/10/07 10:18:57,Muscle Spasm(s),TENS (prescription)
+6002826,1,2194,2016/10/07 10:18:57,2016/10/07 10:18:57,Dizziness,TENS (prescription)
+6002826,1,2515,2016/10/07 10:18:57,2016/10/07 10:18:57,Shaking/Tremors,TENS (prescription)
+6026815,1,1980,2016/10/13 13:07:32,2016/10/13 13:07:32,Undesired Nerve Stimulation,TENS (over-the-counter)
+6034680,1,2692,2016/10/19 10:37:41,2016/10/19 10:37:41,No Known Impact Or Consequence To Patient,Powered exercise equipment (incl. CPM)
+6034809,1,2694,2016/10/17 16:51:44,2016/10/17 16:51:44,Partial thickness (Second Degree) Burn,TENS (prescription)
+6042756,1,1757,2016/10/19 21:44:36,2016/10/19 21:44:36,Burn(s),TENS (prescription)
+6059933,1,1757,2016/10/27 09:13:38,2017/03/16 09:39:40,Burn(s),TENS (over-the-counter)
+6077718,1,2694,2016/11/03 18:11:55,2016/11/03 18:11:55,Partial thickness (Second Degree) Burn,TENS (prescription)
+6084069,1,2694,2016/11/07 16:48:17,2016/11/07 16:48:17,Partial thickness (Second Degree) Burn,TENS (prescription)
+6120699,1,1994,2016/11/22 12:02:45,2016/11/22 12:02:45,Pain,Powered muscle stimulator
+6120699,1,2348,2016/11/22 12:02:45,2016/11/22 12:02:45,Injury,Powered muscle stimulator
+6120699,1,2530,2016/11/22 12:02:45,2016/11/22 12:02:45,"Burn, Thermal",Powered muscle stimulator
+6120699,1,2685,2016/11/22 12:02:45,2016/11/22 12:02:45,Superficial (First Degree) Burn,Powered muscle stimulator
+6140212,1,2694,2016/12/01 18:50:33,2016/12/01 18:50:33,Partial thickness (Second Degree) Burn,TENS (prescription)
+6142528,1,1870,2016/12/02 15:18:49,2016/12/02 15:18:49,Bone Fracture(s),Powered exoskeleton
+6146349,1,1870,2016/12/05 17:26:45,2016/12/05 17:26:45,Bone Fracture(s),Powered exoskeleton
+6147520,1,1994,2016/12/07 09:52:13,2016/12/07 09:52:13,Pain,TENS (over-the-counter)
+6147520,1,2388,2016/12/07 09:52:13,2016/12/07 09:52:13,Inadequate Pain Relief,TENS (over-the-counter)
+6156331,1,1870,2016/12/08 16:15:01,2016/12/08 16:15:01,Bone Fracture(s),Powered exoskeleton
+6158926,1,1870,2016/12/09 13:09:04,2016/12/09 13:09:04,Bone Fracture(s),Powered exoskeleton
+6169912,1,2694,2016/12/13 11:55:00,2016/12/13 11:55:00,Partial thickness (Second Degree) Burn,TENS (prescription)
+6169917,1,2694,2016/12/13 11:56:04,2016/12/13 11:56:04,Partial thickness (Second Degree) Burn,TENS (prescription)
+6169918,1,2694,2016/12/13 11:56:05,2016/12/13 11:56:05,Partial thickness (Second Degree) Burn,TENS (prescription)
+6169923,1,2694,2016/12/13 11:56:29,2016/12/13 11:56:29,Partial thickness (Second Degree) Burn,TENS (prescription)
+6169929,1,2694,2016/12/13 11:57:28,2016/12/13 11:57:28,Partial thickness (Second Degree) Burn,TENS (prescription)
+6223771,1,2694,2017/01/04 16:57:51,2017/01/04 16:57:51,Partial thickness (Second Degree) Burn,TENS (prescription)
+6223899,1,2694,2017/01/04 17:29:18,2017/01/04 17:29:18,Partial thickness (Second Degree) Burn,TENS (prescription)
+6224003,1,1870,2017/01/04 17:58:49,2017/01/04 17:58:49,Bone Fracture(s),Powered exoskeleton
+6224006,1,1870,2017/01/04 17:59:02,2017/01/04 17:59:02,Bone Fracture(s),Powered exoskeleton
+6226533,1,2694,2017/01/05 14:22:32,2017/01/05 14:22:32,Partial thickness (Second Degree) Burn,TENS (prescription)
+6227185,1,1870,2017/01/05 16:48:09,2017/01/05 16:48:09,Bone Fracture(s),Powered exoskeleton
+6249592,1,2694,2017/01/13 12:11:03,2017/02/20 16:58:31,Partial thickness (Second Degree) Burn,TENS (prescription)
+6261109,1,1757,2017/04/04 16:30:18,2017/04/04 16:30:18,Burn(s),TENS (prescription)
+6261109,1,2033,2017/01/18 15:09:30,2017/04/04 16:30:26,Rash,TENS (prescription)
+6261109,1,2530,2017/01/18 15:09:30,2017/04/04 16:30:26,"Burn, Thermal",TENS (prescription)
+6263050,1,1757,2017/01/20 15:46:20,2017/01/20 15:46:20,Burn(s),TENS (over-the-counter)
+6263050,1,1980,2017/01/20 15:46:20,2017/01/20 15:46:20,Undesired Nerve Stimulation,TENS (over-the-counter)
+6263050,1,2330,2017/01/20 15:46:20,2017/01/20 15:46:20,Discomfort,TENS (over-the-counter)
+6289732,1,2104,2017/01/31 12:05:28,2017/02/07 11:45:21,Tissue Damage,TENS (over-the-counter)
+6314472,1,2199,2017/02/09 12:29:58,2017/02/09 12:29:58,No Consequences Or Impact To Patient,Powered exoskeleton
+6373325,1,2099,2017/03/02 16:03:21,2018/02/15 13:16:31,"Therapeutic Effects, Unexpected",TENS (over-the-counter)
+6373325,1,2549,2017/03/02 16:03:21,2018/02/15 13:16:31,Caustic/Chemical Burns,TENS (over-the-counter)
+6373336,1,1930,2017/03/02 15:43:49,2017/10/30 14:28:10,Unspecified Infection,TENS (over-the-counter)
+6373336,1,2091,2017/03/02 15:43:49,2017/10/30 14:28:10,Swelling,TENS (over-the-counter)
+6373420,1,1757,2017/03/02 15:40:59,2017/10/30 14:34:28,Burn(s),TENS (over-the-counter)
+6373420,1,1840,2017/03/02 15:40:59,2017/10/30 14:34:28,Erythema,TENS (over-the-counter)
+6373420,1,1994,2017/03/02 15:40:59,2017/10/30 14:34:28,Pain,TENS (over-the-counter)
+6373420,1,2554,2017/03/02 15:40:59,2017/10/30 14:34:28,Electric Shock,TENS (over-the-counter)
+6373445,1,2530,2017/03/02 15:49:20,2017/08/15 15:30:46,"Burn, Thermal",TENS (over-the-counter)
+6391184,1,2694,2017/03/09 11:15:51,2017/03/09 11:15:51,Partial thickness (Second Degree) Burn,TENS (prescription)
+6420804,1,2171,2017/03/21 11:58:32,2017/05/15 15:39:47,Tingling,TENS (prescription)
+6433902,1,1994,2017/03/24 18:08:22,2017/03/24 18:08:22,Pain,TENS (prescription)
+6433902,1,2072,2017/03/24 18:08:22,2017/03/24 18:08:22,Shock,TENS (prescription)
+6433902,1,3162,2017/03/24 18:08:22,2017/03/24 18:08:22,Shock from Patient Lead(s),TENS (prescription)
+6437223,1,2072,2017/03/27 16:56:33,2017/03/27 16:56:33,Shock,TENS (prescription)
+6437680,1,2072,2017/03/27 22:47:22,2017/03/27 22:47:22,Shock,TENS (prescription)
+6440473,1,2076,2017/03/28 16:32:26,2017/04/24 11:54:38,Skin Irritation,TENS (prescription)
+6440604,1,1757,2017/03/28 17:01:35,2017/04/27 16:09:43,Burn(s),TENS (prescription)
+6440647,1,1757,2017/03/28 17:10:09,2017/04/27 16:32:49,Burn(s),TENS (prescription)
+6442666,1,1757,2017/03/29 11:41:18,2017/04/27 16:24:26,Burn(s),TENS (prescription)
+6449267,1,1757,2017/03/31 10:28:07,2017/03/31 10:28:07,Burn(s),Powered exercise equipment (incl. CPM)
+6450615,1,1979,2017/04/04 09:36:24,2017/04/04 09:36:24,Nerve Damage,Powered muscle stimulator
+6457545,1,1757,2017/04/04 15:13:35,2017/08/07 13:29:40,Burn(s),TENS (over-the-counter)
+6457545,1,2171,2017/04/04 15:13:35,2017/08/07 13:29:40,Tingling,TENS (over-the-counter)
+6457545,1,2530,2017/04/04 15:39:24,2017/08/07 13:29:31,"Burn, Thermal",TENS (over-the-counter)
+6457545,1,2554,2017/08/07 13:29:31,2017/08/07 13:29:31,Electric Shock,TENS (over-the-counter)
+6550912,1,1999,2017/09/04 13:11:27,2017/09/04 13:11:27,Peeling,TENS (over-the-counter)
+6550912,1,2104,2017/05/08 07:56:57,2017/09/04 13:11:40,Tissue Damage,TENS (over-the-counter)
+6550912,1,2146,2017/05/08 07:56:57,2017/09/04 13:11:40,Burning Sensation,TENS (over-the-counter)
+6550912,1,2530,2017/05/08 07:56:57,2017/09/04 13:11:40,"Burn, Thermal",TENS (over-the-counter)
+6562292,1,1757,2017/05/11 18:39:36,2017/05/11 18:39:36,Burn(s),TENS (prescription)
+6563110,1,1757,2017/05/12 11:26:24,2017/05/12 11:26:24,Burn(s),TENS (prescription)
+6563171,1,1757,2017/05/12 11:42:56,2017/05/12 11:42:56,Burn(s),TENS (prescription)
+6563224,1,2554,2017/05/12 12:06:51,2017/05/12 12:06:51,Electric Shock,TENS (prescription)
+6575409,1,2694,2017/05/18 12:02:46,2017/05/18 12:02:46,Partial thickness (Second Degree) Burn,TENS (prescription)
+6585029,1,1994,2017/05/24 13:26:11,2017/05/24 13:26:11,Pain,TENS (prescription)
+6595500,1,2072,2017/05/26 16:02:19,2017/06/20 17:56:45,Shock,TENS (prescription)
+6604533,1,1729,2017/06/02 08:52:46,2017/06/02 08:52:46,Atrial Fibrillation,TENS (over-the-counter)
+6609644,1,1946,2017/06/06 08:55:53,2017/07/31 14:15:40,Laceration(s),Powered exercise equipment (incl. CPM)
+6621552,1,2348,2017/06/12 11:42:16,2017/06/12 11:42:16,Injury,Powered exercise equipment (incl. CPM)
+6629035,1,1729,2017/06/09 07:51:58,2017/06/13 14:10:07,Atrial Fibrillation,TENS (over-the-counter)
+6630243,1,1994,2017/06/09 12:31:45,2017/07/12 16:39:56,Pain,TENS (prescription)
+6630314,1,1994,2017/06/09 12:46:28,2017/06/09 12:46:28,Pain,TENS (prescription)
+6635587,1,1757,2017/06/12 17:49:11,2017/08/01 15:32:11,Burn(s),TENS (over-the-counter)
+6655681,1,2694,2017/06/20 18:30:22,2017/06/20 18:30:22,Partial thickness (Second Degree) Burn,TENS (prescription)
+6681151,1,2694,2017/06/30 12:39:08,2017/06/30 12:39:08,Partial thickness (Second Degree) Burn,TENS (prescription)
+6681502,1,1870,2017/06/30 13:34:46,2017/06/30 13:34:46,Bone Fracture(s),Powered exoskeleton
+6691763,1,1979,2017/07/06 18:18:15,2017/07/06 18:18:15,Nerve Damage,TENS (prescription)
+6704027,1,1980,2017/07/11 16:53:10,2017/07/11 16:53:10,Undesired Nerve Stimulation,TENS (over-the-counter)
+6705177,1,2035,2017/07/12 08:15:00,2017/07/12 08:15:00,Local Reaction,TENS (over-the-counter)
+6705177,1,2146,2017/07/12 08:15:00,2017/07/12 08:15:00,Burning Sensation,TENS (over-the-counter)
+6710185,1,2530,2017/07/13 10:15:26,2017/08/08 13:49:05,"Burn, Thermal",TENS (prescription)
+6710224,1,1757,2017/07/13 10:24:51,2017/07/13 10:24:51,Burn(s),TENS (prescription)
+6710224,1,2330,2017/07/13 10:24:51,2017/07/13 10:24:51,Discomfort,TENS (prescription)
+6710824,1,2694,2017/07/13 12:35:43,2017/07/13 12:35:43,Partial thickness (Second Degree) Burn,TENS (prescription)
+6714110,1,1888,2017/07/17 15:28:15,2017/07/17 15:28:15,Hemorrhage/Blood Loss/Bleeding,TENS (prescription)
+6714110,1,1994,2017/07/17 15:28:15,2017/07/17 15:28:15,Pain,TENS (prescription)
+6714110,1,2104,2017/07/17 15:28:15,2017/07/17 15:28:15,Tissue Damage,TENS (prescription)
+6714110,1,2330,2017/07/17 15:28:15,2017/07/17 15:28:15,Discomfort,TENS (prescription)
+6717221,1,1994,2017/07/18 14:46:36,2017/07/18 14:46:36,Pain,Powered muscle stimulator
+6726003,1,2091,2017/07/19 16:10:50,2017/07/19 16:10:50,Swelling,TENS (prescription)
+6726003,1,2530,2017/07/19 16:10:50,2017/07/19 16:10:50,"Burn, Thermal",TENS (prescription)
+6726161,1,2515,2017/07/20 07:47:19,2017/07/20 07:47:19,Shaking/Tremors,TENS (prescription)
+6726161,1,3162,2017/07/20 07:47:19,2017/07/20 07:47:19,Shock from Patient Lead(s),TENS (prescription)
+6740206,1,1754,2017/07/25 12:00:00,2017/07/25 12:00:00,Bruise/Contusion,Powered exoskeleton
+6740206,1,1966,2017/07/25 12:00:00,2017/07/25 12:00:00,Muscle Spasm(s),Powered exoskeleton
+6740206,1,2091,2017/07/25 12:00:00,2017/07/25 12:00:00,Swelling,Powered exoskeleton
+6740206,1,3191,2017/07/25 12:00:00,2017/07/25 12:00:00,No Code Available,Powered exoskeleton
+6742042,1,1757,2017/07/25 16:28:43,2017/07/25 16:28:43,Burn(s),TENS (prescription)
+6742042,1,2061,2017/07/25 16:28:43,2017/07/25 16:28:43,Scarring,TENS (prescription)
+6742235,1,2530,2017/07/25 16:33:05,2017/07/25 16:33:05,"Burn, Thermal",TENS (prescription)
+6742396,1,1757,2017/07/26 07:21:02,2017/07/26 07:21:02,Burn(s),TENS (prescription)
+6742478,1,1757,2017/07/26 07:38:18,2017/07/26 07:38:18,Burn(s),TENS (prescription)
+6742510,1,1757,2017/07/26 07:43:45,2017/07/26 07:43:45,Burn(s),TENS (prescription)
+6790254,1,1757,2017/08/14 07:57:59,2017/08/14 07:57:59,Burn(s),TENS (prescription)
+6790254,1,2072,2017/08/14 07:57:59,2017/08/14 07:57:59,Shock,TENS (prescription)
+6804920,1,1757,2017/08/18 14:51:59,2017/08/18 14:51:59,Burn(s),TENS (prescription)
+6805849,1,2035,2017/08/18 17:59:09,2017/08/29 08:50:45,Local Reaction,TENS (over-the-counter)
+6809011,1,2530,2017/08/22 07:14:48,2017/08/22 07:14:48,"Burn, Thermal",TENS (prescription)
+6809037,1,2530,2017/08/22 07:13:54,2017/08/22 07:13:54,"Burn, Thermal",TENS (prescription)
+6848815,1,2146,2017/09/07 12:54:40,2017/09/08 11:53:04,Burning Sensation,TENS (over-the-counter)
+6848815,1,2530,2017/09/07 12:54:40,2017/09/08 11:53:04,"Burn, Thermal",TENS (over-the-counter)
+6859873,1,1870,2017/09/12 16:40:09,2017/09/12 16:40:09,Bone Fracture(s),Powered exoskeleton
+6879512,1,1757,2017/09/20 13:07:08,2018/06/12 15:07:18,Burn(s),TENS (prescription)
+6879512,1,1930,2017/09/20 13:07:08,2018/06/12 15:07:18,Unspecified Infection,TENS (prescription)
+6899928,1,2035,2017/09/28 06:00:15,2017/12/30 05:16:49,Local Reaction,TENS (over-the-counter)
+6899945,1,2035,2017/09/28 06:32:19,2017/11/29 14:45:40,Local Reaction,TENS (over-the-counter)
+6899945,1,2074,2017/09/28 06:32:19,2017/11/29 14:45:40,Skin Discoloration,TENS (over-the-counter)
+6939473,1,2109,2017/10/11 02:50:56,2017/10/26 13:57:35,Transient Ischemic Attack,TENS (over-the-counter)
+6953914,1,2694,2017/10/17 01:39:46,2017/10/17 01:39:46,Partial thickness (Second Degree) Burn,TENS (prescription)
+6953915,1,1757,2017/10/17 01:39:46,2017/10/18 07:46:09,Burn(s),TENS (prescription)
+6953916,1,2694,2017/10/17 01:39:46,2017/10/17 01:39:46,Partial thickness (Second Degree) Burn,TENS (prescription)
+6953917,1,2694,2017/10/17 01:39:49,2017/10/17 01:39:49,Partial thickness (Second Degree) Burn,TENS (prescription)
+6953918,1,2694,2017/10/17 01:39:49,2017/10/17 01:39:49,Partial thickness (Second Degree) Burn,TENS (prescription)
+6953919,1,2694,2017/10/17 01:40:01,2017/10/17 01:40:01,Partial thickness (Second Degree) Burn,TENS (prescription)
+6955911,1,2199,2017/11/01 11:36:25,2017/11/01 11:36:25,No Consequences Or Impact To Patient,TENS (over-the-counter)
+6957381,1,1757,2017/10/18 07:45:44,2017/10/18 07:45:44,Burn(s),TENS (prescription)
+6957384,1,2694,2017/10/18 07:45:56,2017/10/18 07:45:56,Partial thickness (Second Degree) Burn,TENS (prescription)
+6957385,1,2696,2017/10/18 07:45:58,2017/10/18 07:45:58,Full thickness (Third Degree) Burn,TENS (prescription)
+6957386,1,2694,2017/10/18 07:45:59,2017/10/18 07:45:59,Partial thickness (Second Degree) Burn,TENS (prescription)
+6957387,1,2688,2017/10/18 07:46:09,2017/10/18 07:46:09,Patient Problem/Medical Problem,TENS (prescription)
+6957390,1,2694,2017/10/18 07:46:20,2017/10/18 07:46:20,Partial thickness (Second Degree) Burn,TENS (prescription)
+6957433,1,1757,2017/10/18 08:10:47,2017/10/18 08:10:47,Burn(s),TENS (prescription)
+6978993,1,1754,2017/10/31 08:15:58,2017/10/31 08:15:58,Bruise/Contusion,Powered exoskeleton
+6978993,1,2091,2017/10/31 08:15:58,2017/10/31 08:15:58,Swelling,Powered exoskeleton
+6982112,1,1888,2017/10/27 08:04:16,2017/10/27 08:04:16,Hemorrhage/Blood Loss/Bleeding,TENS (prescription)
+6982112,1,2330,2017/10/27 08:04:16,2017/10/27 08:04:16,Discomfort,TENS (prescription)
+6982112,1,2530,2017/10/27 08:04:16,2017/10/27 08:04:16,"Burn, Thermal",TENS (prescription)
+6982112,1,2694,2017/10/27 08:04:16,2017/10/27 08:04:16,Partial thickness (Second Degree) Burn,TENS (prescription)
+6985651,1,1757,2017/10/30 07:39:03,2017/10/30 07:39:03,Burn(s),TENS (prescription)
+6985651,1,2146,2017/10/30 07:39:03,2017/10/30 07:39:03,Burning Sensation,TENS (prescription)
+6985651,1,2554,2017/10/30 07:39:03,2017/10/30 07:39:03,Electric Shock,TENS (prescription)
+6989914,1,1907,2017/11/01 11:40:45,2017/11/01 11:40:45,Hypersensitivity/Allergic reaction,TENS (over-the-counter)
+6989914,1,2060,2017/11/01 11:40:45,2017/11/01 11:40:45,Scar Tissue,TENS (over-the-counter)
+6989914,1,2104,2017/11/01 11:40:45,2017/11/01 11:40:45,Tissue Damage,TENS (over-the-counter)
+6989914,1,2414,2017/11/01 11:40:45,2017/11/01 11:40:45,Reaction,TENS (over-the-counter)
+7016008,1,2223,2017/11/09 16:49:27,2017/11/09 16:49:27,"Convulsion, Tonic",TENS (prescription)
+7016008,1,2418,2017/11/09 16:49:27,2017/11/09 16:49:27,Loss of consciousness,TENS (prescription)
+7083059,1,2692,2017/12/07 08:53:31,2018/07/03 13:21:03,No Known Impact Or Consequence To Patient,TENS (over-the-counter)
+7143901,1,2692,2017/12/27 09:36:23,2017/12/27 09:36:23,No Known Impact Or Consequence To Patient,Powered exercise equipment (incl. CPM)
+7214782,1,1994,2018/01/25 13:20:36,2018/01/25 13:20:36,Pain,TENS (prescription)
+7214782,1,2348,2018/01/25 13:20:36,2018/01/25 13:20:36,Injury,TENS (prescription)
+7244557,1,2692,2018/02/07 12:29:17,2018/02/07 12:29:17,No Known Impact Or Consequence To Patient,Powered exoskeleton
+7273682,1,1840,2018/02/15 13:41:29,2018/04/03 10:01:07,Erythema,TENS (over-the-counter)
+7273682,1,1997,2018/02/15 13:41:29,2018/04/03 10:01:07,Paralysis,TENS (over-the-counter)
+7273682,1,2530,2018/02/15 13:41:29,2018/04/03 10:01:07,"Burn, Thermal",TENS (over-the-counter)
+7273682,1,3162,2018/02/15 13:41:29,2018/04/03 10:01:07,Shock from Patient Lead(s),TENS (over-the-counter)
+7295950,1,1994,2018/02/27 12:09:21,2018/02/27 12:09:21,Pain,Powered exercise equipment (incl. CPM)
+7295950,1,2348,2018/02/27 12:09:21,2018/02/27 12:09:21,Injury,Powered exercise equipment (incl. CPM)
+7297528,1,1932,2018/04/20 16:32:09,2018/04/20 16:32:09,Inflammation,TENS (over-the-counter)
+7297528,1,1994,2018/02/26 16:00:39,2018/04/20 16:32:09,Pain,TENS (over-the-counter)
+7297528,1,2443,2018/02/26 16:00:39,2018/04/20 16:32:09,Skin Inflammation,TENS (over-the-counter)
+7300559,1,2095,2018/02/27 15:09:56,2018/04/20 14:25:14,Tachycardia,TENS (over-the-counter)
+7346058,1,1412,2018/03/19 08:27:13,2018/03/19 08:27:13,Muscle Stimulation,TENS (prescription)
+7346058,1,1932,2018/03/19 08:27:13,2018/03/19 08:27:13,Inflammation,TENS (prescription)
+7346058,1,1994,2018/03/19 08:27:13,2018/03/19 08:27:13,Pain,TENS (prescription)
+7346058,1,2388,2018/03/19 08:27:13,2018/03/19 08:27:13,Inadequate Pain Relief,TENS (prescription)
+7346058,1,2433,2018/03/19 08:27:13,2018/03/19 08:27:13,Neck Pain,TENS (prescription)
+7346058,1,2444,2018/03/19 08:27:13,2018/03/19 08:27:13,Sweating,TENS (prescription)
+7346058,1,2515,2018/03/19 08:27:13,2018/03/19 08:27:13,Shaking/Tremors,TENS (prescription)
+7379632,1,3161,2018/03/29 13:52:26,2018/04/05 12:52:18,"Lead(s), Burn(s) From",TENS (prescription)
+7379634,1,2696,2018/03/29 13:52:25,2018/04/05 12:36:25,Full thickness (Third Degree) Burn,TENS (prescription)
+7379636,1,2696,2018/03/29 13:52:33,2018/04/05 13:06:49,Full thickness (Third Degree) Burn,TENS (prescription)
+7379636,1,3161,2018/03/29 13:52:33,2018/04/05 13:06:49,"Lead(s), Burn(s) From",TENS (prescription)
+7379648,1,2696,2018/03/29 13:52:33,2018/04/05 17:24:01,Full thickness (Third Degree) Burn,TENS (prescription)
+7379648,1,3161,2018/03/29 13:52:33,2018/04/05 17:24:01,"Lead(s), Burn(s) From",TENS (prescription)
+7380897,1,2206,2018/03/30 15:12:08,2018/03/30 15:12:08,Heart Failure,TENS (over-the-counter)
+7380897,1,2418,2018/03/30 15:12:08,2018/03/30 15:12:08,Loss of consciousness,TENS (over-the-counter)
+7385462,1,1870,2018/03/30 12:17:32,2018/03/30 12:17:32,Bone Fracture(s),Powered exoskeleton
+7385479,1,1870,2018/03/30 12:23:36,2018/03/30 12:23:36,Bone Fracture(s),Powered exoskeleton
+7392332,1,1870,2018/04/03 11:52:23,2018/04/03 11:52:23,Bone Fracture(s),Powered exoskeleton
+7393485,1,2351,2018/04/03 15:08:53,2018/04/03 15:08:53,"Fracture, Arm",Powered exoskeleton
+7393486,1,1848,2018/04/03 15:14:01,2018/04/03 15:14:01,Fall,Powered exoskeleton
+7394018,1,1870,2018/04/03 16:40:22,2018/04/03 16:40:22,Bone Fracture(s),Powered exoskeleton
+7401093,1,1870,2018/04/05 18:48:51,2018/04/05 18:48:51,Bone Fracture(s),Powered exoskeleton
+7443771,1,1870,2018/04/19 12:43:50,2018/04/19 12:43:50,Bone Fracture(s),Powered exoskeleton
+7443774,1,1870,2018/04/19 12:49:40,2018/04/19 12:49:40,Bone Fracture(s),Powered exoskeleton
+7443790,1,1870,2018/04/19 12:50:31,2018/04/19 12:50:31,Bone Fracture(s),Powered exoskeleton
+7445347,1,1870,2018/04/19 17:58:39,2018/04/19 17:58:39,Bone Fracture(s),Powered exoskeleton
+7445930,1,1932,2018/04/20 00:00:57,2018/04/20 00:00:57,Inflammation,TENS (prescription)
+7445930,1,1994,2018/04/20 00:00:57,2018/04/20 00:00:57,Pain,TENS (prescription)
+7445930,1,2554,2018/04/20 00:00:57,2018/04/20 00:00:57,Electric Shock,TENS (prescription)
+7471170,1,2696,2018/04/28 04:26:35,2018/04/28 04:26:35,Full thickness (Third Degree) Burn,TENS (prescription)
+7471171,1,2696,2018/04/28 04:26:35,2018/04/28 04:26:35,Full thickness (Third Degree) Burn,TENS (prescription)
+7477073,1,2696,2018/05/01 14:22:48,2018/05/01 14:22:48,Full thickness (Third Degree) Burn,TENS (prescription)
+7477159,1,2696,2018/05/01 14:37:07,2018/05/01 14:37:07,Full thickness (Third Degree) Burn,TENS (prescription)
+7478407,1,1870,2018/05/01 18:25:03,2018/05/01 18:25:03,Bone Fracture(s),Powered exoskeleton
+7482524,1,1930,2018/05/03 09:05:53,2018/05/03 09:05:53,Unspecified Infection,TENS (prescription)
+7482524,1,2061,2018/05/03 09:05:53,2018/05/03 09:05:53,Scarring,TENS (prescription)
+7482524,1,2360,2018/05/03 09:05:53,2018/05/03 09:05:53,Deformity/ Disfigurement,TENS (prescription)
+7482524,1,2696,2018/05/03 09:05:53,2018/05/03 09:05:53,Full thickness (Third Degree) Burn,TENS (prescription)
+7525729,1,2074,2018/05/22 13:30:12,2018/05/22 13:30:12,Skin Discoloration,TENS (over-the-counter)
+7525729,1,2554,2018/05/22 13:30:12,2018/05/22 13:30:12,Electric Shock,TENS (over-the-counter)
+7549033,1,2554,2018/05/29 11:11:07,2018/05/29 11:11:07,Electric Shock,TENS (over-the-counter)
+7552167,1,2554,2018/05/30 06:52:53,2018/05/30 06:52:53,Electric Shock,TENS (over-the-counter)
+7552345,1,1979,2018/05/30 08:14:42,2018/05/30 08:14:42,Nerve Damage,TENS (over-the-counter)
+7553039,1,2100,2018/05/30 11:12:16,2018/05/30 11:12:16,Thrombosis,TENS (over-the-counter)
+7553406,1,3191,2018/05/30 12:10:15,2018/05/30 12:10:15,No Code Available,TENS (over-the-counter)
+7556167,1,1979,2018/05/31 07:50:39,2018/05/31 07:50:39,Nerve Damage,TENS (over-the-counter)
+7556818,1,1762,2018/05/31 10:48:20,2018/05/31 10:48:20,Cardiac Arrest,TENS (over-the-counter)
+7572849,1,1820,2018/06/06 10:41:34,2018/06/06 10:41:34,Edema,Powered exoskeleton
+7572849,1,2091,2018/06/06 10:41:34,2018/06/06 10:41:34,Swelling,Powered exoskeleton
+7572849,1,2432,2018/06/06 10:41:34,2018/06/06 10:41:34,Spinal Cord Injury,Powered exoskeleton
+7573488,1,1870,2018/06/06 11:29:05,2018/06/06 11:29:05,Bone Fracture(s),Powered exoskeleton
+7626734,1,2349,2018/06/21 15:32:53,2018/06/21 15:32:53,Hip Fracture,Powered exoskeleton
+7635320,1,2530,2018/06/25 15:53:12,2018/07/06 14:29:09,"Burn, Thermal",TENS (prescription)
+7635574,1,2060,2018/06/26 07:53:47,2018/07/06 14:44:22,Scar Tissue,TENS (prescription)
+7635574,1,3161,2018/06/26 07:53:47,2018/07/06 14:44:22,"Lead(s), Burn(s) From",TENS (prescription)
+7675654,1,1729,2018/07/10 17:22:46,2018/07/10 17:22:46,Atrial Fibrillation,TENS (over-the-counter)
+7675654,1,1730,2018/07/10 17:22:46,2018/07/10 17:22:46,Atrial Flutter,TENS (over-the-counter)
+7713118,1,2694,2018/07/23 21:38:15,2018/07/23 21:38:15,Partial thickness (Second Degree) Burn,TENS (prescription)
+7722351,1,1907,2018/07/26 11:14:50,2018/10/04 19:54:35,Hypersensitivity/Allergic reaction,TENS (prescription)
+7722351,1,1908,2018/10/02 18:48:42,2018/10/04 19:54:28,High Blood Pressure/ Hypertension,TENS (prescription)
+7722351,1,1970,2018/07/26 11:14:50,2018/10/04 19:54:35,Nausea,TENS (prescription)
+7722351,1,2144,2018/07/26 11:14:50,2018/10/04 19:54:35,Vomiting,TENS (prescription)
+7752239,1,2199,2018/08/06 11:57:43,2018/08/06 11:57:43,No Consequences Or Impact To Patient,TENS (over-the-counter)
+7780325,1,1994,2018/08/15 08:57:13,2018/08/15 08:57:13,Pain,TENS (prescription)
+7780325,1,2172,2018/08/15 08:57:13,2018/08/15 08:57:13,Twitching,TENS (prescription)
+7780325,1,2433,2018/08/15 08:57:13,2018/08/15 08:57:13,Neck Pain,TENS (prescription)
+7812323,1,1757,2018/08/24 08:37:53,2019/02/19 11:52:22,Burn(s),TENS (over-the-counter)
+7812323,1,1994,2018/08/24 08:37:53,2019/02/19 11:52:22,Pain,TENS (over-the-counter)
+7812323,1,2075,2018/08/24 08:37:53,2019/02/19 11:52:22,Skin Erosion,TENS (over-the-counter)
+7837124,1,1968,2018/09/04 11:02:37,2018/09/04 11:02:37,Muscular Rigidity,Powered muscle stimulator
+7837124,1,1994,2018/09/04 11:02:37,2018/09/04 11:02:37,Pain,Powered muscle stimulator
+7837124,1,2072,2018/09/04 11:02:37,2018/09/04 11:02:37,Shock,Powered muscle stimulator
+7837124,1,2171,2018/09/04 11:02:37,2018/09/04 11:02:37,Tingling,Powered muscle stimulator
+7928077,1,1870,2018/10/03 07:35:56,2018/10/03 07:35:56,Bone Fracture(s),Powered exoskeleton
+7928077,1,2356,2018/10/03 07:35:56,2018/10/03 07:35:56,Joint Swelling,Powered exoskeleton
+7937827,1,2330,2018/10/05 11:16:59,2018/10/05 11:16:59,Discomfort,TENS (prescription)
+7956337,1,1866,2018/10/15 12:00:38,2018/10/15 12:00:38,Vitreous Floaters,TENS (prescription)
+7956337,1,1880,2018/10/15 12:00:38,2018/10/15 12:00:38,Headache,TENS (prescription)
+7956337,1,1980,2018/10/15 12:00:38,2018/10/15 12:00:38,Undesired Nerve Stimulation,TENS (prescription)
+7969513,1,1757,2018/10/16 12:00:05,2018/10/16 12:00:05,Burn(s),TENS (prescription)
+7999293,1,2645,2018/10/24 15:03:54,2018/10/24 15:03:54,No Patient Involvement,Powered exercise equipment (incl. CPM)
+8008538,1,1757,2018/10/26 07:38:23,2018/11/14 13:21:01,Burn(s),TENS (over-the-counter)
+8094646,1,3191,2018/11/21 10:09:57,2018/12/04 15:36:08,No Code Available,TENS (over-the-counter)
+8139663,1,2692,2018/12/06 16:41:43,2018/12/20 12:21:29,No Known Impact Or Consequence To Patient,Powered muscle stimulator
+8145104,1,1870,2018/12/09 09:04:21,2018/12/09 09:04:21,Bone Fracture(s),Powered exoskeleton
+8145105,1,1870,2018/12/09 09:37:18,2018/12/09 09:37:18,Bone Fracture(s),Powered exoskeleton
+8152426,1,2696,2018/12/11 15:09:18,2018/12/11 15:09:18,Full thickness (Third Degree) Burn,Powered muscle stimulator
+8155073,1,1879,2018/12/12 10:19:42,2018/12/12 10:19:42,Head Injury,Powered exoskeleton
+8183930,1,1870,2018/12/20 08:21:25,2018/12/20 08:21:25,Bone Fracture(s),Powered exoskeleton
+8188569,1,2549,2018/12/21 02:23:20,2019/02/25 01:01:45,Caustic/Chemical Burns,TENS (prescription)
+8197646,1,1757,2019/03/07 09:48:47,2019/03/07 09:48:47,Burn(s),TENS (over-the-counter)
+8297054,1,1880,2019/02/07 10:21:19,2019/02/07 10:21:19,Headache,Powered muscle stimulator
+8297054,1,1994,2019/02/07 10:21:19,2019/02/07 10:21:19,Pain,Powered muscle stimulator
+8297054,1,2095,2019/02/07 10:21:19,2019/02/07 10:21:19,Tachycardia,Powered muscle stimulator
+8297054,1,2330,2019/02/07 10:21:19,2019/02/07 10:21:19,Discomfort,Powered muscle stimulator
+8308514,1,1729,2019/02/05 17:39:21,2019/02/05 17:39:21,Atrial Fibrillation,TENS (prescription)
+8366460,1,2348,2019/02/27 15:50:47,2019/02/27 15:50:47,Injury,Powered exercise equipment (incl. CPM)
+8366615,1,1994,2019/02/27 09:36:02,2019/02/27 09:36:02,Pain,Powered muscle stimulator
+8366615,1,2328,2019/02/27 09:36:02,2019/02/27 09:36:02,Anxiety,Powered muscle stimulator
+8366615,1,2415,2019/02/27 09:36:02,2019/02/27 09:36:02,Numbness,Powered muscle stimulator
+8394098,1,1966,2019/03/06 13:26:09,2019/03/06 13:26:09,Muscle Spasm(s),Powered muscle stimulator
+8394098,1,1994,2019/03/06 13:26:09,2019/03/06 13:26:09,Pain,Powered muscle stimulator
+8394098,1,2554,2019/03/06 13:26:09,2019/03/06 13:26:09,Electric Shock,Powered muscle stimulator
+8540056,1,2692,2019/04/25 08:04:02,2019/04/25 08:04:02,No Known Impact Or Consequence To Patient,Powered exercise equipment (incl. CPM)
+8707008,1,2072,2019/06/18 09:44:19,2019/06/18 09:44:19,Shock,Powered muscle stimulator
+8795403,1,2688,2019/07/16 15:03:07,2019/07/16 15:03:07,Patient Problem/Medical Problem,TENS (over-the-counter)
+8796178,1,1994,2019/07/16 17:03:18,2019/07/16 17:03:18,Pain,TENS (over-the-counter)
+8816732,1,2076,2019/07/23 11:27:02,2019/07/23 11:27:02,Skin Irritation,TENS (over-the-counter)
+8816734,1,2076,2019/07/23 11:27:11,2019/07/23 11:27:11,Skin Irritation,TENS (over-the-counter)
+8816734,1,2530,2019/07/23 11:27:11,2019/07/23 11:27:11,"Burn, Thermal",TENS (over-the-counter)
+8843245,1,2076,2019/07/30 16:00:01,2019/07/30 16:00:01,Skin Irritation,TENS (over-the-counter)
+8920084,1,1757,2019/08/22 07:07:48,2019/08/22 07:07:48,Burn(s),TENS (prescription)
+8992816,1,2692,2019/09/16 10:38:11,2019/09/16 10:38:11,No Known Impact Or Consequence To Patient,TENS (prescription)
+9191773,1,2199,2019/10/15 10:55:40,2019/10/15 10:55:40,No Consequences Or Impact To Patient,TENS (prescription)
+9213525,1,2692,2019/10/21 11:01:37,2019/10/21 11:01:37,No Known Impact Or Consequence To Patient,TENS (prescription)
+9225565,1,2199,2019/10/23 12:38:24,2019/10/23 12:38:24,No Consequences Or Impact To Patient,Powered muscle stimulator
+9266356,1,2517,2019/11/05 06:25:28,2019/11/05 06:25:28,Sleep Dysfunction,TENS (prescription)
+9266356,1,2601,2019/11/05 06:25:28,2019/11/05 06:25:28,Abdominal Distention,TENS (prescription)
+9304482,1,2199,2019/11/11 10:20:40,2019/11/11 10:20:40,No Consequences Or Impact To Patient,TENS (prescription)
+9354148,1,2199,2019/11/21 11:08:39,2019/11/21 11:08:39,No Consequences Or Impact To Patient,Powered muscle stimulator
+9354170,1,2199,2019/11/21 11:12:27,2019/11/21 11:12:27,No Consequences Or Impact To Patient,Powered muscle stimulator
+9458764,1,2530,2019/12/13 14:04:09,2019/12/13 14:04:09,"Burn, Thermal",Powered muscle stimulator
+9519379,1,2692,2019/12/26 09:23:37,2019/12/26 09:23:37,No Known Impact Or Consequence To Patient,Powered muscle stimulator
+9529951,1,2692,2019/12/30 08:57:55,2019/12/30 08:57:55,No Known Impact Or Consequence To Patient,Powered muscle stimulator
+9574840,1,2199,2020/01/10 10:24:24,2020/01/10 10:24:24,No Consequences Or Impact To Patient,TENS (prescription)
+9621402,1,2199,2020/01/23 09:18:29,2020/01/24 12:34:00,No Consequences Or Impact To Patient,TENS (prescription)
+9659576,1,2692,2020/02/03 14:48:21,2020/02/03 14:48:21,No Known Impact Or Consequence To Patient,Powered muscle stimulator
+9666584,1,2199,2020/02/04 13:50:26,2020/02/04 13:50:26,No Consequences Or Impact To Patient,TENS (prescription)
+9694283,1,2530,2020/02/13 16:19:22,2020/02/13 16:19:22,"Burn, Thermal",TENS (prescription)
+9774524,1,1994,2020/03/03 11:27:45,2020/03/03 11:27:45,Pain,Powered muscle stimulator
+9774524,1,2530,2020/03/03 11:27:45,2020/03/03 11:27:45,"Burn, Thermal",Powered muscle stimulator
+9786070,1,2418,2020/03/06 10:25:56,2020/03/06 10:25:56,Loss of consciousness,Powered muscle stimulator
+9829647,1,2530,2020/03/16 08:42:04,2020/03/16 08:42:04,"Burn, Thermal",TENS (prescription)
+9835882,1,1412,2020/03/16 13:04:39,2020/03/16 13:04:39,Muscle Stimulation,TENS (prescription)
+9835882,1,2104,2020/03/16 13:04:39,2020/03/16 13:04:39,Tissue Damage,TENS (prescription)
+9835882,1,2146,2020/03/16 13:04:39,2020/03/16 13:04:39,Burning Sensation,TENS (prescription)
+9836506,1,2694,2020/03/16 14:31:03,2020/03/16 14:31:03,Partial thickness (Second Degree) Burn,TENS (prescription)
+9864812,1,2554,2020/03/23 09:23:44,2020/03/23 09:23:44,Electric Shock,Powered muscle stimulator
+10000746,1,2692,2020/04/28 10:26:43,2020/04/28 10:26:43,No Known Impact Or Consequence To Patient,TENS (over-the-counter)
+10050473,1,1870,2020/05/13 03:55:58,2020/05/13 03:55:58,Bone Fracture(s),Powered exoskeleton
+10096340,1,2099,2020/05/29 15:13:29,2020/05/29 15:13:29,"Therapeutic Effects, Unexpected",TENS (over-the-counter)
+10118258,1,2692,2020/06/04 09:00:41,2020/06/04 09:00:41,No Known Impact Or Consequence To Patient,Powered muscle stimulator
+10137796,1,2692,2020/06/11 15:19:41,2020/06/11 15:19:41,No Known Impact Or Consequence To Patient,TENS (over-the-counter)
+10178685,1,3161,2020/06/22 10:14:27,2020/06/22 10:14:27,"Lead(s), Burn(s) From",Powered muscle stimulator
+10250481,1,2692,2020/07/10 14:22:28,2020/07/10 14:22:28,No Known Impact Or Consequence To Patient,TENS (over-the-counter)
+10326152,1,3190,2020/07/27 10:41:22,2020/07/27 10:41:22,No Information,TENS (over-the-counter)
+10326535,1,2554,2020/07/27 11:48:38,2020/07/27 11:48:38,Electric Shock,Powered muscle stimulator
+10361689,1,2692,2020/08/05 15:30:31,2020/08/05 15:30:31,No Known Impact Or Consequence To Patient,TENS (over-the-counter)
+10454299,1,1870,2020/08/26 15:14:12,2020/08/26 15:14:12,Bone Fracture(s),Powered exoskeleton
+10454299,1,2091,2020/08/26 15:14:12,2020/08/26 15:14:12,Swelling,Powered exoskeleton
+10454301,1,1870,2020/08/26 15:16:28,2020/08/26 15:16:28,Bone Fracture(s),Powered exoskeleton
+10454301,1,2091,2020/08/26 15:16:28,2020/08/26 15:16:28,Swelling,Powered exoskeleton
+10513807,1,2348,2020/09/11 09:05:35,2020/09/11 09:05:35,Injury,Powered muscle stimulator
+10575069,1,3162,2020/09/23 14:02:30,2020/09/23 14:02:30,Shock from Patient Lead(s),Powered muscle stimulator
+10575070,1,4582,2020/09/23 14:02:32,2020/09/23 14:02:32,"No Clinical Signs, Symptoms or Conditions",Powered muscle stimulator
+10713187,1,2146,2020/10/21 14:45:46,2020/10/21 14:45:46,Burning Sensation,Powered muscle stimulator
+10713187,1,2685,2020/10/21 14:45:46,2020/10/21 14:45:46,Superficial (First Degree) Burn,Powered muscle stimulator
+10837737,1,1757,2020/11/16 16:03:59,2020/11/16 16:03:59,Burn(s),TENS (over-the-counter)
+10837737,1,1840,2020/11/16 16:03:59,2020/11/16 16:03:59,Erythema,TENS (over-the-counter)
+10837737,1,1943,2020/11/16 16:03:59,2020/11/16 16:03:59,Itching Sensation,TENS (over-the-counter)
+10837737,1,1994,2020/11/16 16:03:59,2020/11/16 16:03:59,Pain,TENS (over-the-counter)
+10837737,1,2076,2020/11/16 16:03:59,2020/11/16 16:03:59,Skin Irritation,TENS (over-the-counter)
+10853001,1,2685,2020/11/17 12:09:43,2020/11/17 12:09:43,Superficial (First Degree) Burn,Powered muscle stimulator
+10920525,1,2685,2020/11/30 14:02:41,2020/11/30 14:02:41,Superficial (First Degree) Burn,Powered muscle stimulator
+10976020,1,1757,2020/12/10 15:28:43,2020/12/10 15:28:43,Burn(s),TENS (prescription)
+10976020,1,1840,2020/12/10 15:28:43,2020/12/10 15:28:43,Erythema,TENS (prescription)
+10976020,1,1907,2020/12/10 15:28:43,2020/12/10 15:28:43,Hypersensitivity/Allergic reaction,TENS (prescription)
+10976020,1,1943,2020/12/10 15:28:43,2020/12/10 15:28:43,Itching Sensation,TENS (prescription)
+10976020,1,1994,2020/12/10 15:28:43,2020/12/10 15:28:43,Pain,TENS (prescription)
+10983479,1,1840,2020/12/11 13:24:35,2020/12/11 13:24:35,Erythema,TENS (prescription)
+10983479,1,1943,2020/12/11 13:24:35,2020/12/11 13:24:35,Itching Sensation,TENS (prescription)
+10983479,1,1994,2020/12/11 13:24:35,2020/12/11 13:24:35,Pain,TENS (prescription)
+10983479,1,2414,2020/12/11 13:24:35,2020/12/11 13:24:35,Reaction,TENS (prescription)
+10983479,1,2530,2020/12/11 13:24:35,2020/12/11 13:24:35,"Burn, Thermal",TENS (prescription)
+10991679,1,2443,2020/12/16 08:44:45,2020/12/16 08:44:45,Skin Inflammation,TENS (prescription)
+10991679,1,2530,2020/12/16 08:44:45,2020/12/16 08:44:45,"Burn, Thermal",TENS (prescription)
+11019252,1,1943,2020/12/17 15:09:47,2020/12/17 15:09:47,Itching Sensation,TENS (over-the-counter)
+11019252,1,2074,2020/12/17 15:09:47,2020/12/17 15:09:47,Skin Discoloration,TENS (over-the-counter)
+11019252,1,4545,2020/12/17 15:09:47,2020/12/17 15:09:47,Skin Inflammation/ Irritation,TENS (over-the-counter)
+11019252,1,4577,2020/12/17 15:09:47,2020/12/17 15:09:47,Swelling/ Edema,TENS (over-the-counter)
+11154437,1,1840,2021/01/13 14:27:55,2021/01/13 14:27:55,Erythema,TENS (over-the-counter)
+11154437,1,1943,2021/01/13 14:27:55,2021/01/13 14:27:55,Itching Sensation,TENS (over-the-counter)
+11154437,1,2530,2021/01/13 14:27:55,2021/01/13 14:27:55,"Burn, Thermal",TENS (over-the-counter)
+11156049,1,4582,2021/01/12 13:10:10,2021/01/12 13:10:10,"No Clinical Signs, Symptoms or Conditions",Powered muscle stimulator
+11170158,1,1840,2021/01/15 15:47:27,2021/01/15 15:47:27,Erythema,TENS (over-the-counter)
+11170158,1,1907,2021/01/15 15:47:27,2021/01/15 15:47:27,Hypersensitivity/Allergic reaction,TENS (over-the-counter)
+11170158,1,1943,2021/01/15 15:47:27,2021/01/15 15:47:27,Itching Sensation,TENS (over-the-counter)
+11170158,1,1994,2021/01/15 15:47:27,2021/01/15 15:47:27,Pain,TENS (over-the-counter)
+11170158,1,2530,2021/01/15 15:47:27,2021/01/15 15:47:27,"Burn, Thermal",TENS (over-the-counter)
+11398150,1,4580,2021/03/02 09:26:06,2021/03/02 09:26:06,Insufficient Information,TENS (prescription)
+11424988,1,4580,2021/03/15 14:39:44,2021/03/15 14:39:44,Insufficient Information,Powered exercise equipment (incl. CPM)
+11541707,1,4540,2021/03/23 15:21:08,2021/03/23 15:21:08,Skin Burning Sensation,TENS (prescription)
+11541707,1,4581,2021/03/23 15:21:08,2021/03/23 15:21:08,"Appropriate Clinical Signs, Symptoms and Conditions Term/Code Not Available",TENS (prescription)
+11552390,1,2694,2021/03/23 09:12:11,2021/03/23 09:12:11,Partial thickness (Second Degree) Burn,TENS (over-the-counter)
+11614535,1,1994,2021/04/05 13:00:16,2021/04/05 13:00:16,Pain,TENS (over-the-counter)
+11639521,1,1994,2021/04/09 00:44:09,2021/04/09 00:44:09,Pain,TENS (over-the-counter)
+11655192,1,4582,2021/04/13 09:13:19,2021/04/13 09:13:19,"No Clinical Signs, Symptoms or Conditions",Powered exoskeleton
+11655212,1,4582,2021/04/13 09:19:19,2021/04/13 09:19:19,"No Clinical Signs, Symptoms or Conditions",Powered exoskeleton
+11710211,1,4580,2021/04/22 16:07:14,2021/04/22 16:07:14,Insufficient Information,TENS (over-the-counter)
+12106444,1,1757,2021/07/02 08:23:21,2021/07/02 08:23:21,Burn(s),TENS (prescription)
+12496789,1,1994,2021/09/21 16:55:20,2021/09/21 16:55:20,Pain,TENS (prescription)
+12568082,1,4580,2021/10/04 10:53:50,2021/10/04 10:53:50,Insufficient Information,Powered exercise equipment (incl. CPM)
+12575757,1,1840,2021/10/06 07:41:47,2021/10/06 07:41:47,Erythema,TENS (prescription)
+12575757,1,2330,2021/10/06 07:41:47,2021/10/06 07:41:47,Discomfort,TENS (prescription)
+12575757,1,2685,2021/10/06 07:41:47,2021/10/06 07:41:47,Superficial (First Degree) Burn,TENS (prescription)
+12575757,1,4537,2021/10/06 07:41:47,2021/10/06 07:41:47,Blister,TENS (prescription)
+12607175,1,1693,2021/10/11 14:24:37,2021/10/11 14:24:37,Acoustic Shock,TENS (over-the-counter)
+12665515,1,1831,2021/10/22 14:06:15,2021/10/22 14:06:15,Emotional Changes,Powered muscle stimulator
+12665515,1,1994,2021/10/22 14:06:15,2021/10/22 14:06:15,Pain,Powered muscle stimulator
+12843964,1,1932,2021/11/22 19:27:11,2021/11/22 19:27:12,Inflammation,Powered muscle stimulator
+12843964,1,1980,2021/11/22 19:27:11,2021/11/22 19:27:12,Undesired Nerve Stimulation,Powered muscle stimulator
+12843964,1,1991,2021/11/22 19:27:11,2021/11/22 19:27:12,Device Overstimulation of Tissue,Powered muscle stimulator
+12843964,1,1994,2021/11/22 19:27:11,2021/11/22 19:27:12,Pain,Powered muscle stimulator
+12843964,1,4532,2021/11/22 19:27:11,2021/11/22 19:27:12,Muscle/Tendon Damage,Powered muscle stimulator
+13198893,1,2685,2022/01/10 12:52:49,2022/01/10 12:52:49,Superficial (First Degree) Burn,Powered muscle stimulator
+13977353,1,1870,2022/04/01 17:48:02,2022/04/01 17:48:02,Bone Fracture(s),Powered exoskeleton
+14576024,1,1994,2022/06/03 18:43:57,2022/06/03 18:43:57,Pain,TENS (prescription)
+14837167,1,2685,2022/06/30 20:28:52,2022/06/30 20:28:52,Superficial (First Degree) Burn,Powered muscle stimulator
+15032609,1,2685,2022/07/15 19:56:53,2022/09/30 12:00:26,Superficial (First Degree) Burn,TENS (over-the-counter)
+15070955,1,2685,2022/07/21 12:37:51,2022/10/06 07:42:02,Superficial (First Degree) Burn,TENS (over-the-counter)
+15462835,1,1870,2022/09/23 20:00:34,2022/09/23 20:00:34,Bone Fracture(s),Powered exoskeleton
+15462835,1,2517,2022/09/23 20:00:34,2022/09/23 20:00:34,Sleep Dysfunction,Powered exoskeleton
+15462835,1,4521,2022/09/23 20:00:34,2022/09/23 20:00:34,Cramp(s) /Muscle Spasm(s),Powered exoskeleton
+15462835,1,4577,2022/09/23 20:00:34,2022/09/23 20:00:34,Swelling/ Edema,Powered exoskeleton
+15543780,1,1840,2022/10/07 13:17:10,2022/10/07 13:17:10,Erythema,TENS (prescription)
+15543780,1,4537,2022/10/07 13:17:10,2022/10/07 13:17:10,Blister,TENS (prescription)
+15643064,1,2554,2022/10/20 22:09:06,2022/10/20 22:09:06,Electric Shock,Powered muscle stimulator
+15885303,1,4581,2022/11/30 14:03:03,2022/11/30 14:03:04,"Appropriate Clinical Signs, Symptoms and Conditions Term/Code Not Available",TENS (prescription)
+15891999,1,2685,2022/12/01 08:28:55,2022/12/01 08:28:56,Superficial (First Degree) Burn,TENS (prescription)
+15891999,1,2696,2022/12/01 08:28:55,2022/12/01 08:28:56,Full thickness (Third Degree) Burn,TENS (prescription)
+16053040,1,4580,2022/12/29 15:49:57,2022/12/29 15:49:57,Insufficient Information,Powered muscle stimulator
+16630181,1,4582,2023/03/29 17:53:04,2023/03/29 17:53:04,"No Clinical Signs, Symptoms or Conditions",Powered muscle stimulator
+16665146,1,2544,2023/04/03 17:06:41,2023/05/16 10:26:35,Ambulation or Postural Difficulties,Powered muscle stimulator
+16708355,1,4582,2023/04/10 16:57:27,2023/04/10 16:57:28,"No Clinical Signs, Symptoms or Conditions",TENS (prescription)
+16855076,1,1762,2023/05/02 18:44:17,2023/05/02 22:39:16,Cardiac Arrest,Powered muscle stimulator
+16906337,1,2067,2023/05/10 19:53:39,2023/05/10 19:53:40,Sepsis,Powered exoskeleton
+16906337,1,4518,2023/05/10 19:53:39,2023/05/10 19:53:40,Limb Fracture,Powered exoskeleton
+16906790,1,1757,2023/05/10 20:14:39,2023/06/06 14:17:22,Burn(s),TENS (prescription)
+16906790,1,1840,2023/05/10 20:14:39,2023/06/06 14:17:22,Erythema,TENS (prescription)
+16907000,1,1757,2023/05/10 20:31:39,2023/05/10 20:31:39,Burn(s),TENS (prescription)
+16907000,1,1840,2023/05/10 20:31:39,2023/05/10 20:31:39,Erythema,TENS (prescription)
+16919807,1,2685,2023/05/15 19:22:50,2023/05/15 19:22:50,Superficial (First Degree) Burn,Powered muscle stimulator
+16920113,1,2696,2023/05/12 16:59:39,2023/05/12 16:59:39,Full thickness (Third Degree) Burn,TENS (prescription)
+17069413,1,2696,2023/06/06 10:16:12,2023/06/06 10:16:13,Full thickness (Third Degree) Burn,TENS (prescription)
+17127607,1,4580,2023/06/15 14:21:18,2023/06/15 14:21:19,Insufficient Information,TENS (prescription)
+17188092,1,2694,2023/06/23 02:23:12,2023/06/23 02:23:12,Partial thickness (Second Degree) Burn,TENS (prescription)
+17263382,1,4580,2023/07/06 02:33:12,2023/07/06 02:33:12,Insufficient Information,TENS (prescription)
+17433390,1,4582,2023/08/01 12:44:22,2023/08/01 12:44:22,"No Clinical Signs, Symptoms or Conditions",Powered exercise equipment (incl. CPM)
+17510415,1,4580,2023/08/14 18:21:24,2023/09/21 14:12:11,Insufficient Information,TENS (prescription)
+17510584,1,2388,2023/08/14 18:10:24,2023/08/14 18:10:25,Inadequate Pain Relief,TENS (prescription)
+17522749,1,4582,2023/08/12 05:32:21,2023/08/12 05:32:21,"No Clinical Signs, Symptoms or Conditions",Powered exercise equipment (incl. CPM)
+17524056,1,1848,2023/08/12 05:56:18,2023/08/12 05:56:18,Fall,TENS (prescription)
+17524115,1,4580,2023/08/12 05:58:20,2023/08/12 05:58:20,Insufficient Information,TENS (prescription)
+17524833,1,4582,2023/08/12 06:12:18,2023/08/12 06:12:19,"No Clinical Signs, Symptoms or Conditions",Powered exercise equipment (incl. CPM)
+17524981,1,4580,2023/08/12 06:14:25,2023/08/12 06:14:26,Insufficient Information,TENS (prescription)
+17525569,1,2388,2023/08/12 06:27:23,2023/08/12 06:27:24,Inadequate Pain Relief,TENS (prescription)
+17525934,1,4580,2023/08/12 06:35:15,2023/08/12 06:35:16,Insufficient Information,Powered exercise equipment (incl. CPM)
+17526526,1,4580,2023/08/12 06:46:19,2023/08/12 06:46:19,Insufficient Information,TENS (prescription)
+17526929,1,4580,2023/08/12 06:54:21,2023/08/12 06:54:21,Insufficient Information,TENS (prescription)
+17528028,1,4580,2023/08/12 07:15:15,2023/08/12 07:15:16,Insufficient Information,TENS (prescription)
+17528288,1,4580,2023/08/12 07:20:21,2023/08/12 07:20:21,Insufficient Information,TENS (prescription)
+17528624,1,2330,2023/08/12 07:28:17,2023/08/12 07:28:17,Discomfort,TENS (prescription)
+17529186,1,4580,2023/08/12 07:38:25,2023/08/12 07:38:25,Insufficient Information,TENS (prescription)
+17529245,1,4582,2023/08/12 07:40:22,2023/08/12 07:40:22,"No Clinical Signs, Symptoms or Conditions",Powered exercise equipment (incl. CPM)
+17529349,1,4582,2023/08/12 07:42:22,2023/08/12 07:42:22,"No Clinical Signs, Symptoms or Conditions",Powered exercise equipment (incl. CPM)
+17529481,1,1991,2023/08/12 07:45:19,2023/08/12 07:45:19,Device Overstimulation of Tissue,TENS (prescription)
+17530072,1,4580,2023/08/12 07:56:21,2023/08/12 07:56:21,Insufficient Information,TENS (prescription)
+17530911,1,4582,2023/08/12 08:14:20,2023/08/12 08:14:20,"No Clinical Signs, Symptoms or Conditions",Powered exercise equipment (incl. CPM)
+17531157,1,4582,2023/08/12 08:18:25,2023/08/12 08:18:25,"No Clinical Signs, Symptoms or Conditions",Powered exercise equipment (incl. CPM)
+17531395,1,4580,2023/08/12 08:23:22,2023/08/12 08:23:22,Insufficient Information,TENS (prescription)
+17531675,1,4580,2023/08/12 08:29:23,2023/08/12 08:29:24,Insufficient Information,Powered muscle stimulator
+17532231,1,4582,2023/08/12 08:40:23,2023/08/12 08:40:23,"No Clinical Signs, Symptoms or Conditions",Powered exercise equipment (incl. CPM)
+17532329,1,4580,2023/08/12 08:43:19,2023/08/12 08:43:20,Insufficient Information,TENS (prescription)
+17532539,1,4582,2023/08/12 08:47:23,2023/08/12 08:47:23,"No Clinical Signs, Symptoms or Conditions",Powered muscle stimulator
+17532796,1,4582,2023/08/12 08:53:18,2023/08/12 08:53:19,"No Clinical Signs, Symptoms or Conditions",Powered exercise equipment (incl. CPM)
+17532801,1,1994,2023/08/12 08:53:19,2023/08/12 08:53:19,Pain,TENS (prescription)
+17533608,1,4580,2023/08/12 09:10:17,2023/08/12 09:10:17,Insufficient Information,TENS (prescription)
+17533671,1,2482,2023/08/12 09:11:14,2023/08/12 09:11:14,Respiratory Acidosis,Powered exercise equipment (incl. CPM)
+17533883,1,1994,2023/08/12 09:16:20,2023/08/12 09:16:21,Pain,TENS (prescription)
+17533970,1,1757,2023/08/12 09:18:16,2023/08/12 09:18:17,Burn(s),TENS (prescription)
+17534391,1,1980,2023/08/12 09:26:24,2023/08/12 09:26:24,Undesired Nerve Stimulation,TENS (prescription)
+17534391,1,2330,2023/08/12 09:26:24,2023/08/12 09:26:24,Discomfort,TENS (prescription)
+17534837,1,4582,2023/08/12 09:36:19,2023/08/12 09:36:19,"No Clinical Signs, Symptoms or Conditions",Powered exercise equipment (incl. CPM)
+17535812,1,2330,2023/08/12 09:54:25,2023/08/12 09:54:25,Discomfort,TENS (prescription)
+17536616,1,3162,2023/08/12 10:10:19,2023/08/12 10:10:20,Shock from Patient Lead(s),TENS (prescription)
+17537296,1,1994,2023/08/12 10:26:15,2023/08/12 10:26:15,Pain,TENS (prescription)
+17622967,1,4582,2023/08/25 13:50:16,2023/08/25 13:50:16,"No Clinical Signs, Symptoms or Conditions",Powered exercise equipment (incl. CPM)
+17646228,1,2694,2023/08/29 21:04:30,2023/12/21 18:10:00,Partial thickness (Second Degree) Burn,TENS (over-the-counter)
+17667458,1,2694,2023/09/01 10:42:21,2023/12/23 04:12:54,Partial thickness (Second Degree) Burn,TENS (over-the-counter)
+17670121,1,1983,2023/09/05 19:31:27,2023/09/05 19:31:28,Neuropathy,TENS (prescription)
+17670121,1,2415,2023/09/05 19:31:27,2023/09/05 19:31:28,Numbness,TENS (prescription)
+17691940,1,1888,2023/09/08 10:53:21,2023/09/08 10:53:21,Hemorrhage/Blood Loss/Bleeding,Powered exercise equipment (incl. CPM)
+17691940,1,4559,2023/09/08 10:53:21,2023/09/08 10:53:21,Unspecified Tissue Injury,Powered exercise equipment (incl. CPM)
+17738457,1,4582,2023/09/13 19:08:23,2023/12/21 19:32:51,"No Clinical Signs, Symptoms or Conditions",TENS (over-the-counter)
+17770325,1,4582,2023/09/19 00:25:19,2023/12/23 00:03:17,"No Clinical Signs, Symptoms or Conditions",TENS (over-the-counter)
+17809367,1,2554,2023/09/26 18:23:24,2023/09/26 18:23:24,Electric Shock,Powered muscle stimulator
+17810348,1,1880,2023/09/26 18:40:05,2023/09/26 18:40:05,Headache,Powered muscle stimulator
+17810348,1,2146,2023/09/26 18:40:05,2023/09/26 18:40:06,Burning Sensation,Powered muscle stimulator
+17810348,1,2355,2023/09/26 18:40:05,2023/09/26 18:40:06,Arthralgia,Powered muscle stimulator
+17868745,1,1991,2023/10/06 17:09:53,2023/10/06 17:09:53,Device Overstimulation of Tissue,TENS (prescription)
+17868745,1,2685,2023/10/06 17:09:53,2023/10/06 17:09:53,Superficial (First Degree) Burn,TENS (prescription)
+18055346,1,1757,2023/11/02 16:01:01,2023/11/17 15:03:44,Burn(s),TENS (prescription)
+18123635,1,1907,2023/11/14 16:35:35,2023/11/14 16:35:35,Hypersensitivity/Allergic reaction,TENS (prescription)
+18169387,1,1721,2023/11/20 23:27:36,2025/04/28 17:11:27,Arrhythmia,TENS (prescription)
+18169387,1,1754,2023/11/20 23:27:36,2025/04/28 17:11:27,Bruise/Contusion,TENS (prescription)
+18239522,1,1848,2023/12/01 20:16:38,2023/12/01 20:16:38,Fall,Powered exercise equipment (incl. CPM)
+18239522,1,1879,2023/12/01 20:16:38,2023/12/01 20:16:38,Head Injury,Powered exercise equipment (incl. CPM)
+18239522,1,1880,2023/12/01 20:16:38,2023/12/01 20:16:38,Headache,Powered exercise equipment (incl. CPM)
+18239522,1,1888,2023/12/01 20:16:38,2023/12/01 20:16:38,Hemorrhage/Blood Loss/Bleeding,Powered exercise equipment (incl. CPM)
+18333763,1,1757,2023/12/15 10:57:54,2026/02/27 09:57:58,Burn(s),TENS (prescription)
+18333765,1,1721,2023/12/15 10:57:54,2025/05/19 08:50:52,Arrhythmia,TENS (prescription)
+18333765,1,1754,2023/12/15 10:57:54,2025/05/19 08:50:52,Bruise/Contusion,TENS (prescription)
+18607177,1,1924,2024/01/31 21:42:51,2024/01/31 21:42:51,Failure of Implant,TENS (prescription)
+18861530,1,2685,2024/03/07 21:59:07,2024/03/07 21:59:08,Superficial (First Degree) Burn,Powered muscle stimulator
+18902515,1,1946,2024/03/14 14:22:19,2024/03/14 14:22:20,Laceration(s),Powered muscle stimulator
+18984545,1,4582,2024/03/27 14:03:23,2024/03/27 14:03:23,"No Clinical Signs, Symptoms or Conditions",TENS (over-the-counter)
+19075352,1,2352,2024/04/09 20:54:25,2024/07/03 19:03:10,Hypoesthesia,TENS (prescription)
+19177900,1,1757,2024/04/25 02:41:43,2026/02/27 10:02:57,Burn(s),TENS (prescription)
+19218420,1,1757,2024/05/01 01:12:41,2024/05/01 01:12:41,Burn(s),TENS (over-the-counter)
+19255487,1,2694,2024/05/06 20:45:45,2024/08/06 21:28:11,Partial thickness (Second Degree) Burn,TENS (over-the-counter)
+19283013,1,2694,2024/05/10 00:39:42,2024/08/15 22:53:04,Partial thickness (Second Degree) Burn,TENS (over-the-counter)
+19426441,1,4582,2024/05/30 17:49:41,2024/05/30 17:49:41,"No Clinical Signs, Symptoms or Conditions",Powered exercise equipment (incl. CPM)
+19813297,1,1757,2024/07/24 02:31:12,2026/02/27 10:11:59,Burn(s),TENS (prescription)
+19874032,1,1870,2024/07/31 16:15:22,2024/07/31 16:15:23,Bone Fracture(s),Powered exoskeleton
+19996222,1,1725,2024/08/16 16:11:11,2024/08/16 16:11:11,Aspiration/Inhalation,Powered muscle stimulator
+20002191,1,1840,2024/08/21 16:23:56,2024/08/21 16:23:57,Erythema,TENS (prescription)
+20002191,1,2554,2024/08/21 16:23:56,2024/08/21 16:23:57,Electric Shock,TENS (prescription)
+20002191,1,4537,2024/08/21 16:23:56,2024/08/21 16:23:57,Blister,TENS (prescription)
+20002273,1,4537,2024/08/21 16:11:52,2024/08/21 16:11:53,Blister,TENS (prescription)
+20002683,1,2696,2024/08/21 18:19:28,2024/08/21 18:19:28,Full thickness (Third Degree) Burn,TENS (prescription)
+20002683,1,4537,2024/08/21 18:19:28,2024/08/21 18:19:28,Blister,TENS (prescription)
+20002717,1,4537,2024/08/21 18:11:36,2024/08/21 18:11:37,Blister,TENS (prescription)
+20109256,1,4580,2024/09/03 19:57:10,2024/09/03 19:57:10,Insufficient Information,Powered exercise equipment (incl. CPM)
+20213493,1,4580,2024/09/13 20:50:24,2024/09/13 20:50:24,Insufficient Information,Powered muscle stimulator
+20220329,1,1870,2024/09/15 08:57:04,2025/07/29 09:59:10,Bone Fracture(s),Powered exoskeleton
+20254367,1,2696,2024/09/19 08:08:04,2024/09/19 08:08:04,Full thickness (Third Degree) Burn,TENS (prescription)
+20275819,1,1870,2024/09/22 10:46:03,2025/07/24 11:17:29,Bone Fracture(s),Powered exoskeleton
+20429393,1,2554,2024/10/11 18:09:00,2024/10/11 18:09:00,Electric Shock,TENS (prescription)
+20434834,1,2694,2024/10/12 02:25:12,2024/10/12 02:25:12,Partial thickness (Second Degree) Burn,TENS (prescription)
+20503327,1,1870,2024/10/22 09:05:20,2024/10/22 09:05:21,Bone Fracture(s),Powered exoskeleton
+20503327,1,4518,2024/10/22 09:05:20,2024/10/22 09:05:21,Limb Fracture,Powered exoskeleton
+20569820,1,2694,2024/10/30 19:03:29,2025/01/17 19:24:44,Partial thickness (Second Degree) Burn,TENS (over-the-counter)
+20569820,1,2696,2024/10/30 19:03:29,2025/01/17 19:24:44,Full thickness (Third Degree) Burn,TENS (over-the-counter)
+20586000,1,2694,2024/11/01 12:10:44,2025/01/23 00:20:41,Partial thickness (Second Degree) Burn,TENS (over-the-counter)
+20586000,1,2696,2024/11/01 12:10:44,2025/01/23 00:20:41,Full thickness (Third Degree) Burn,TENS (over-the-counter)
+20589685,1,1994,2024/11/05 13:48:34,2024/11/05 13:48:34,Pain,Powered muscle stimulator
+20589685,1,2144,2024/11/05 13:48:34,2024/11/05 13:48:34,Vomiting,Powered muscle stimulator
+20589685,1,4467,2024/11/05 13:48:34,2024/11/05 13:48:34,Eye Pain,Powered muscle stimulator
+20589685,1,4581,2024/11/05 13:48:34,2024/11/05 13:48:34,"Appropriate Clinical Signs, Symptoms and Conditions Term/Code Not Available",Powered muscle stimulator
+20589685,1,4812,2024/11/05 13:48:34,2024/11/05 13:48:35,Ear Pain,Powered muscle stimulator
+20676551,1,2146,2024/11/15 14:27:03,2024/11/15 14:27:03,Burning Sensation,TENS (prescription)
+20676551,1,2554,2024/11/15 14:27:03,2024/11/15 14:27:03,Electric Shock,TENS (prescription)
+20682019,1,4441,2025/07/01 12:36:20,2025/07/01 12:36:20,Unspecified Vascular Problem,Powered exoskeleton
+20682019,1,4580,2024/11/14 12:39:02,2025/07/01 12:36:21,Insufficient Information,Powered exoskeleton
+20993667,1,1754,2024/12/23 21:57:34,2024/12/23 21:57:34,Bruise/Contusion,TENS (over-the-counter)
+20993667,1,2554,2024/12/23 21:57:34,2024/12/23 21:57:34,Electric Shock,TENS (over-the-counter)
+21000651,1,2349,2024/12/23 15:54:38,2025/07/24 11:19:28,Hip Fracture,Powered exoskeleton
+21111670,1,1924,2025/01/09 18:59:50,2025/01/09 18:59:51,Failure of Implant,Powered exercise equipment (incl. CPM)
+21111670,1,1994,2025/01/09 18:59:50,2025/01/09 18:59:51,Pain,Powered exercise equipment (incl. CPM)
+21111670,1,2544,2025/01/09 18:59:50,2025/01/09 18:59:51,Ambulation or Postural Difficulties,Powered exercise equipment (incl. CPM)
+21256457,1,2330,2025/01/29 20:29:42,2025/01/29 20:29:42,Discomfort,TENS (over-the-counter)
+21256457,1,2554,2025/01/29 20:29:42,2025/01/29 20:29:42,Electric Shock,TENS (over-the-counter)
+21256457,1,4537,2025/01/29 20:29:42,2025/01/29 20:29:42,Blister,TENS (over-the-counter)
+21256457,1,4545,2025/01/29 20:29:42,2025/01/29 20:29:42,Skin Inflammation/ Irritation,TENS (over-the-counter)
+21256457,1,4559,2025/01/29 20:29:42,2025/01/29 20:29:42,Unspecified Tissue Injury,TENS (over-the-counter)
+21274103,1,1757,2025/01/30 16:27:42,2025/03/10 14:20:43,Burn(s),TENS (prescription)
+21333931,1,1840,2025/02/10 20:29:02,2025/02/10 20:29:02,Erythema,TENS (prescription)
+21333931,1,1907,2025/02/10 20:29:02,2025/02/10 20:29:02,Hypersensitivity/Allergic reaction,TENS (prescription)
+21333931,1,1943,2025/02/10 20:29:02,2025/02/10 20:29:02,Itching Sensation,TENS (prescription)
+21333931,1,1994,2025/02/10 20:29:02,2025/02/10 20:29:02,Pain,TENS (prescription)
+21333931,1,2060,2025/02/10 20:29:02,2025/02/10 20:29:02,Scar Tissue,TENS (prescription)
+21333931,1,4537,2025/02/10 20:29:02,2025/02/10 20:29:02,Blister,TENS (prescription)
+21415373,1,4580,2025/02/20 19:55:33,2025/02/24 16:11:43,Insufficient Information,TENS (over-the-counter)
+21436584,1,4582,2025/02/24 19:30:48,2025/02/24 19:30:48,"No Clinical Signs, Symptoms or Conditions",Powered muscle stimulator
+21477580,1,1757,2025/02/27 12:58:12,2026/02/27 10:12:57,Burn(s),TENS (prescription)
+21561029,1,1757,2025/03/10 16:48:44,2026/02/25 15:23:00,Burn(s),TENS (prescription)
+21696263,1,1757,2025/03/26 12:20:41,2026/02/27 12:10:59,Burn(s),TENS (prescription)
+21785658,1,1689,2025/04/07 14:59:10,2025/04/07 14:59:11,Abrasion,Powered exoskeleton
+21785658,1,1754,2025/04/07 14:59:10,2025/04/07 14:59:11,Bruise/Contusion,Powered exoskeleton
+21875730,1,4895,2025/04/21 17:54:45,2025/04/21 17:54:45,Back pain,TENS (prescription)
+21883326,1,1968,2025/04/24 11:11:45,2025/04/24 11:11:45,Muscular Rigidity,TENS (prescription)
+21883326,1,4538,2025/04/24 11:11:45,2025/04/24 11:11:45,Hyperresponsive to stimuli,TENS (prescription)
+21938639,1,2554,2025/04/30 20:54:38,2025/04/30 20:54:38,Electric Shock,TENS (prescription)
+22024215,1,2060,2025/05/15 11:25:52,2025/06/11 09:41:43,Scar Tissue,Powered muscle stimulator
+22024215,1,2694,2025/06/11 09:41:43,2025/06/11 09:41:43,Partial thickness (Second Degree) Burn,Powered muscle stimulator
+22024215,1,2696,2025/05/15 11:25:52,2025/06/11 09:41:43,Full thickness (Third Degree) Burn,Powered muscle stimulator
+22025722,1,2060,2025/05/15 13:13:58,2025/06/11 10:34:43,Scar Tissue,Powered muscle stimulator
+22025722,1,2694,2025/06/11 10:34:43,2025/06/11 10:34:43,Partial thickness (Second Degree) Burn,Powered muscle stimulator
+22025722,1,2696,2025/05/15 13:13:58,2025/06/11 10:34:43,Full thickness (Third Degree) Burn,Powered muscle stimulator
+22091230,1,3162,2025/05/29 18:48:59,2025/05/29 18:48:59,Shock from Patient Lead(s),Powered muscle stimulator
+22105548,1,2146,2025/05/29 18:47:59,2025/05/29 18:47:59,Burning Sensation,TENS (prescription)
+22126309,1,4582,2025/06/03 20:54:44,2025/06/03 20:54:44,"No Clinical Signs, Symptoms or Conditions",TENS (over-the-counter)
+22297436,1,1840,2025/06/20 15:16:43,2025/06/20 15:16:43,Erythema,TENS (over-the-counter)
+22297436,1,1943,2025/06/20 15:16:43,2025/06/20 15:16:43,Itching Sensation,TENS (over-the-counter)
+22540369,1,4518,2025/07/18 12:50:24,2025/07/18 12:50:24,Limb Fracture,Powered exercise equipment (incl. CPM)
+22693792,1,4580,2025/08/04 11:28:12,2025/08/04 11:28:12,Insufficient Information,TENS (over-the-counter)
+22836808,1,4440,2025/08/19 07:03:08,2025/10/20 08:30:54,Thrombosis/Thrombus,Powered exoskeleton
+22862348,1,1907,2025/08/22 16:14:07,2025/08/22 16:14:08,Hypersensitivity/Allergic reaction,TENS (prescription)
+22862348,1,4537,2025/08/22 16:14:07,2025/08/22 16:14:08,Blister,TENS (prescription)
+22967844,1,2388,2025/09/08 12:46:42,2025/09/08 13:28:42,Inadequate Pain Relief,TENS (prescription)
+22967844,1,2554,2025/09/08 12:46:42,2025/09/08 13:28:42,Electric Shock,TENS (prescription)
+23026768,1,1840,2025/09/12 13:38:41,2025/09/12 13:38:41,Erythema,TENS (prescription)
+23026768,1,1943,2025/09/12 13:38:41,2025/09/12 13:38:41,Itching Sensation,TENS (prescription)
+23026768,1,4537,2025/09/12 13:38:41,2025/09/12 13:38:41,Blister,TENS (prescription)
+23026788,1,1840,2025/09/12 13:42:46,2025/09/12 13:42:46,Erythema,TENS (over-the-counter)
+23026788,1,1943,2025/09/12 13:42:46,2025/09/12 13:42:46,Itching Sensation,TENS (over-the-counter)
+23026788,1,4537,2025/09/12 13:42:46,2025/09/12 13:42:46,Blister,TENS (over-the-counter)
+23085338,1,1776,2025/09/18 16:41:34,2025/09/18 16:41:34,Chest Pain,Powered exoskeleton
+23086519,1,1776,2025/09/18 18:09:55,2026/03/03 19:39:14,Chest Pain,Powered exoskeleton
+23086519,1,1994,2026/03/03 19:39:14,2026/03/03 19:39:14,Pain,Powered exoskeleton
+23121529,1,4582,2025/09/23 15:05:36,2025/09/23 15:05:37,"No Clinical Signs, Symptoms or Conditions",Powered exercise equipment (incl. CPM)
+23241275,1,1994,2025/10/08 00:39:35,2025/10/08 00:39:35,Pain,Powered exoskeleton
+23361656,1,2694,2025/10/22 21:10:54,2025/10/22 21:10:55,Partial thickness (Second Degree) Burn,Powered muscle stimulator
+23361656,1,4896,2025/10/22 21:10:54,2025/10/22 21:10:55,Abnormal scarring,Powered muscle stimulator
+23436928,1,1970,2025/10/31 19:44:56,2025/10/31 19:44:56,Nausea,TENS (prescription)
+23436928,1,2134,2025/10/31 19:44:56,2025/10/31 19:44:56,Vertigo,TENS (prescription)
+23497093,1,1721,2025/11/07 21:22:53,2025/11/07 21:22:53,Arrhythmia,Powered muscle stimulator
+23497093,1,1849,2025/11/07 21:22:53,2025/11/07 21:22:53,Fatigue,Powered muscle stimulator
+23497093,1,2467,2025/11/07 21:22:53,2025/11/07 21:22:53,Palpitations,Powered muscle stimulator
+23497093,1,4454,2025/11/07 21:22:53,2025/11/07 21:22:53,Unspecified Heart Problem,Powered muscle stimulator
+23512044,1,1757,2025/11/12 20:04:59,2025/11/13 19:18:00,Burn(s),Powered muscle stimulator
+23543403,1,2685,2025/11/13 19:34:58,2025/11/13 19:34:59,Superficial (First Degree) Burn,Powered muscle stimulator
+23582641,1,4559,2025/11/18 21:01:54,2025/11/18 21:01:55,Unspecified Tissue Injury,Powered exercise equipment (incl. CPM)
+23690617,1,4582,2025/12/02 09:10:08,2025/12/02 09:10:08,"No Clinical Signs, Symptoms or Conditions",TENS (over-the-counter)
+23847742,1,4581,2025/12/19 10:41:58,2025/12/19 10:41:58,"Appropriate Clinical Signs, Symptoms and Conditions Term/Code Not Available",Powered muscle stimulator
+23847806,1,4581,2025/12/19 11:02:05,2025/12/19 11:02:05,"Appropriate Clinical Signs, Symptoms and Conditions Term/Code Not Available",Powered muscle stimulator
+23851368,1,4582,2025/12/19 17:56:14,2025/12/19 17:56:15,"No Clinical Signs, Symptoms or Conditions",Powered exoskeleton
+23992925,1,1757,2026/01/07 18:47:58,2026/04/01 22:20:42,Burn(s),TENS (over-the-counter)
+24009149,1,1880,2026/01/09 20:43:04,2026/01/09 20:43:04,Headache,Powered muscle stimulator
+24009149,1,2103,2026/01/09 20:43:04,2026/01/09 20:43:04,Tinnitus,Powered muscle stimulator
+24176487,1,1994,2026/01/26 13:24:22,2026/01/26 13:24:23,Pain,Powered muscle stimulator
+24176487,1,2328,2026/01/26 13:24:22,2026/01/26 13:24:23,Anxiety,Powered muscle stimulator
+24176487,1,2329,2026/01/26 13:24:22,2026/01/26 13:24:23,Distress,Powered muscle stimulator
+24176487,1,2694,2026/01/26 13:24:22,2026/01/26 13:24:23,Partial thickness (Second Degree) Burn,Powered muscle stimulator
+24176487,1,2696,2026/01/26 13:24:22,2026/01/26 13:24:23,Full thickness (Third Degree) Burn,Powered muscle stimulator
+24307725,1,1688,2026/02/11 21:40:54,2026/02/11 21:40:55,Abortion,TENS (prescription)
+24413972,1,2554,2026/02/23 20:33:59,2026/02/23 20:33:59,Electric Shock,TENS (over-the-counter)
+24467905,1,2032,2026/02/27 10:27:57,2026/02/27 10:27:57,Loss of Range of Motion,TENS (prescription)
+24468313,1,2554,2026/02/27 12:10:59,2026/02/27 12:10:59,Electric Shock,TENS (over-the-counter)
+24545375,1,4580,2026/03/10 10:49:12,2026/03/10 10:49:12,Insufficient Information,Powered muscle stimulator
+24673205,1,4545,2026/03/24 16:00:33,2026/03/24 16:00:33,Skin Inflammation/ Irritation,TENS (prescription)
+24760721,1,2554,2026/04/01 22:50:41,2026/04/01 22:50:41,Electric Shock,TENS (over-the-counter)
+25103196,1,1994,2026/05/08 10:50:58,2026/05/08 10:50:58,Pain,Powered exercise equipment (incl. CPM)
+25209516,1,1928,2026/05/20 10:44:02,2026/05/20 10:44:02,Incontinence,TENS (prescription)
+25209516,1,1994,2026/05/20 10:44:02,2026/05/20 10:44:02,Pain,TENS (prescription)
+25209516,1,2033,2026/05/20 10:44:02,2026/05/20 10:44:02,Rash,TENS (prescription)
+25209516,1,2328,2026/05/20 10:44:02,2026/05/20 10:44:02,Anxiety,TENS (prescription)
+25209516,1,3162,2026/05/20 10:44:02,2026/05/20 10:44:02,Shock from Patient Lead(s),TENS (prescription)
+25318307,1,1870,2026/05/28 16:36:53,2026/05/28 16:36:53,Bone Fracture(s),Powered exercise equipment (incl. CPM)
+25318969,1,2418,2026/05/28 17:08:53,2026/06/15 11:36:19,Loss of consciousness,TENS (prescription)
+25318969,1,4521,2026/05/28 17:08:53,2026/06/15 11:36:19,Cramp(s) /Muscle Spasm(s),TENS (prescription)
+25347121,1,4580,2026/06/01 18:29:20,2026/06/01 18:29:21,Insufficient Information,TENS (over-the-counter)
+25351110,1,1880,2026/06/03 16:44:24,2026/06/03 16:44:24,Headache,Powered muscle stimulator
+25351110,1,2328,2026/06/03 16:44:24,2026/06/03 16:44:24,Anxiety,Powered muscle stimulator
+25351110,1,2329,2026/06/03 16:44:24,2026/06/03 16:44:24,Distress,Powered muscle stimulator
+25351110,1,2433,2026/06/03 16:44:24,2026/06/03 16:44:24,Neck Pain,Powered muscle stimulator
+25351110,1,2517,2026/06/03 16:44:24,2026/06/03 16:44:24,Sleep Dysfunction,Powered muscle stimulator
+25351110,1,4581,2026/06/03 16:44:24,2026/06/03 16:44:24,"Appropriate Clinical Signs, Symptoms and Conditions Term/Code Not Available",Powered muscle stimulator
+25531873,1,4582,2026/06/18 11:01:22,2026/06/18 11:01:22,"No Clinical Signs, Symptoms or Conditions",Powered muscle stimulator
+25573080,1,2418,2026/06/22 06:02:16,2026/08/27 12:49:57,Loss of consciousness,TENS (prescription)
+25573080,1,4521,2026/06/22 06:02:16,2026/08/27 12:49:57,Cramp(s) /Muscle Spasm(s),TENS (prescription)
+25600033,1,2238,2026/06/23 20:39:16,2026/06/23 20:39:17,Myalgia,TENS (prescription)
+25667984,1,2433,2026/07/01 18:45:20,2026/07/01 18:45:20,Neck Pain,TENS (prescription)
+25667984,1,4521,2026/07/01 18:45:20,2026/07/01 18:45:20,Cramp(s) /Muscle Spasm(s),TENS (prescription)
+25668009,1,2433,2026/07/01 18:45:17,2026/07/01 18:45:17,Neck Pain,TENS (prescription)
+25668009,1,4521,2026/07/01 18:45:17,2026/07/01 18:45:17,Cramp(s) /Muscle Spasm(s),TENS (prescription)
+25871488,1,2428,2026/07/20 19:02:19,2026/07/20 19:02:19,Tooth Fracture,Powered muscle stimulator
+25871488,1,2433,2026/07/20 19:02:19,2026/07/20 19:02:19,Neck Pain,Powered muscle stimulator
+25871488,1,2452,2026/07/20 19:02:19,2026/07/20 19:02:19,Diaphoresis,Powered muscle stimulator
+25871488,1,2607,2026/07/20 19:02:19,2026/07/20 19:02:19,Weight Changes,Powered muscle stimulator
+25871488,1,2685,2026/07/20 19:02:19,2026/07/20 19:02:19,Superficial (First Degree) Burn,Powered muscle stimulator
+25871488,1,4420,2026/07/20 19:02:19,2026/07/20 19:02:19,Hyperesthesia,Powered muscle stimulator
+25871488,1,4537,2026/07/20 19:02:19,2026/07/20 19:02:19,Blister,Powered muscle stimulator
+25871488,1,4577,2026/07/20 19:02:19,2026/07/20 19:02:19,Swelling/ Edema,Powered muscle stimulator
+50060133,1,3263,2026/07/30 15:07:00,2026/08/26 14:48:38,Lymphoma,Powered muscle stimulator
+50080267,1,4518,2026/07/30 20:33:16,2026/08/13 10:20:35,Limb Fracture,Powered exoskeleton
+50156509,1,1870,2026/08/06 15:30:51,2026/08/13 12:51:56,Bone Fracture(s),Powered exercise equipment (incl. CPM)
+50476553,1,1757,2026/08/27 16:10:58,2026/08/27 16:10:58,Burn(s),TENS (prescription)
+50515584,1,2360,2026/08/31 14:00:39,2026/08/31 14:57:48,Deformity/ Disfigurement,TENS (prescription)
+50515584,1,2696,2026/08/31 14:00:39,2026/08/31 14:57:48,Full thickness (Third Degree) Burn,TENS (prescription)
+50519866,1,1757,2026/08/31 20:21:35,2026/08/31 20:27:03,Burn(s),TENS (prescription)
